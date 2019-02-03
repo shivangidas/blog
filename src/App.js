@@ -12,10 +12,10 @@ class App extends Component {
         <div className="App">
           <header className="App-header">
             <h1>
-              <Link to="/">Shivangi's blog!</Link>
+              <Link to="/blog">Shivangi's blog!</Link>
             </h1>
 
-            <Route exact path="/" component={Links} />
+            <Route exact path="/blog" component={Links} />
             <Route path="/post1" component={Post1} />
             <Route path="/post2" component={Post2} />
           </header>
