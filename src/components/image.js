@@ -1,11 +1,17 @@
 import React from "react";
-import bookImage from "../images/books8.jpg";
+
 class Image extends React.Component {
   render() {
+    const imageProps = this.props;
     return (
       <figure>
-        <img src={bookImage} alt="books" height="300em" />
-        <figcaption>Pretty Books</figcaption>
+        <img
+          src={imageProps.src}
+          alt={imageProps.alt}
+          height={imageProps.height ? imageProps.height : ""}
+          width={imageProps.width ? imageProps.width : ""}
+        />
+        <figcaption>{imageProps.caption ? imageProps.caption : ""}</figcaption>
       </figure>
     );
   }
