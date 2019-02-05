@@ -8,8 +8,8 @@ class Post extends Component {
       <div className="Post">
         <header className="Post-header">
           <h1>I am post 2</h1>
-          <Image alt="Books" src={books} height="300px" />
         </header>
+        <Image alt="Books" src={books} height="300px" caption="Pretty books" />
       </div>
     );
   }
