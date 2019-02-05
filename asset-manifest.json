@@ -1,14 +1,15 @@
 {
-  "main.css": "/blog/static/css/main.6720573c.chunk.css",
-  "main.js": "/blog/static/js/main.7be61a7d.chunk.js",
-  "main.js.map": "/blog/static/js/main.7be61a7d.chunk.js.map",
-  "static/js/1.1cdc5c93.chunk.js": "/blog/static/js/1.1cdc5c93.chunk.js",
-  "static/js/1.1cdc5c93.chunk.js.map": "/blog/static/js/1.1cdc5c93.chunk.js.map",
+  "main.css": "/blog/static/css/main.0663461e.chunk.css",
+  "main.js": "/blog/static/js/main.fb302a78.chunk.js",
+  "main.js.map": "/blog/static/js/main.fb302a78.chunk.js.map",
+  "static/js/1.34f29d54.chunk.js": "/blog/static/js/1.34f29d54.chunk.js",
+  "static/js/1.34f29d54.chunk.js.map": "/blog/static/js/1.34f29d54.chunk.js.map",
   "runtime~main.js": "/blog/static/js/runtime~main.255cd0f7.js",
   "runtime~main.js.map": "/blog/static/js/runtime~main.255cd0f7.js.map",
+  "static/css/main.0663461e.chunk.css.map": "/blog/static/css/main.0663461e.chunk.css.map",
   "static/media/books8.jpg": "/blog/static/media/books8.9a6c97a7.jpg",
-  "static/css/main.6720573c.chunk.css.map": "/blog/static/css/main.6720573c.chunk.css.map",
+  "static/media/App.css": "/blog/static/media/star_list.cbf3350d.svg",
   "index.html": "/blog/index.html",
-  "precache-manifest.ec4f03474ba13115aca2a945558ee72d.js": "/blog/precache-manifest.ec4f03474ba13115aca2a945558ee72d.js",
+  "precache-manifest.248c095476e1249abcd1faa5980fcf7f.js": "/blog/precache-manifest.248c095476e1249abcd1faa5980fcf7f.js",
   "service-worker.js": "/blog/service-worker.js"
 }
