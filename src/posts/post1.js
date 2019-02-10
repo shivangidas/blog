@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./post.css";
+import "../styles/post.css";
 import Image from "../components/image";
 import books from "../images/books8.jpg";
 class Post extends Component {
