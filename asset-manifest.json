@@ -1,17 +1,17 @@
 {
   "main.css": "/static/css/main.23ac2521.chunk.css",
-  "main.js": "/static/js/main.25e4c05d.chunk.js",
-  "main.js.map": "/static/js/main.25e4c05d.chunk.js.map",
+  "main.js": "/static/js/main.dcbce46a.chunk.js",
+  "main.js.map": "/static/js/main.dcbce46a.chunk.js.map",
   "static/css/1.7ce87094.chunk.css": "/static/css/1.7ce87094.chunk.css",
   "static/js/1.007869cc.chunk.js": "/static/js/1.007869cc.chunk.js",
   "static/js/1.007869cc.chunk.js.map": "/static/js/1.007869cc.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/1.7ce87094.chunk.css.map": "/static/css/1.7ce87094.chunk.css.map",
+  "static/css/main.23ac2521.chunk.css.map": "/static/css/main.23ac2521.chunk.css.map",
   "static/media/books8.jpg": "/static/media/books8.9a6c97a7.jpg",
   "static/media/index.css": "/static/media/star_list.cbf3350d.svg",
-  "static/css/main.23ac2521.chunk.css.map": "/static/css/main.23ac2521.chunk.css.map",
+  "static/css/1.7ce87094.chunk.css.map": "/static/css/1.7ce87094.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.f97a3c12772ad3db485eb2eeb5f87dba.js": "/precache-manifest.f97a3c12772ad3db485eb2eeb5f87dba.js",
+  "precache-manifest.ec18842702061b2562e4010b27ab8217.js": "/precache-manifest.ec18842702061b2562e4010b27ab8217.js",
   "service-worker.js": "/service-worker.js"
 }
