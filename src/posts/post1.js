@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Image from "../components/image";
-import books from "../images/books8.jpg";
+// import Image from "../components/image";
+// import books from "../images/books8.jpg";
 class Post extends Component {
   render() {
     return (
@@ -27,29 +27,59 @@ class Post extends Component {
           <hr />
           <h3>Resources</h3>
           <ul>
-            <li>The documentation is amazing</li>
             <li>
-              <a href="https://scrimba.com/p/p7P5Hd/cBv8ruL" target="_blank">
+              The{" "}
+              <a
+                href="https://facebook.github.io/create-react-app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                create-react-app
+              </a>{" "}
+              documentation is amazing
+            </li>
+            <li>
+              <a
+                href="https://scrimba.com/p/p7P5Hd/cBv8ruL"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Scrimba
               </a>
             </li>
             <li>
-              <a href="" target="_blank">
+              <a
+                href="https://www.youtube.com/watch?v=dpw9EHDh2bM"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Learnt Hooks from this talk
               </a>
             </li>
             <li>
-              <a href="" target="_blank">
+              <a
+                href="https://egghead.io/courses/getting-started-with-redux"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Redux by Dan Abramov
               </a>
             </li>
             <li>
-              <a href="" target="_blank">
+              <a
+                href="https://learnredux.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Redux by Wes Bos
               </a>
             </li>
             <li>
-              <a href="" target="_blank">
+              <a
+                href="https://www.freecodecamp.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 A little help from FreeCodeCamp
               </a>
             </li>
