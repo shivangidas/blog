@@ -32,7 +32,7 @@ class Layout extends Component {
     return (
       <header className="App-header">
         <h1>
-          <Link to="/">Shivangi's blog </Link>
+          <Link to="/blog">Shivangi's blog </Link>
           <Toggle
             defaultChecked={this.state.lightTheme}
             icons={false}
