@@ -11,7 +11,7 @@ export default class Links extends Component {
             <Link to="/post1">My relationship with React</Link>
           </li>
           <li key="2">
-            <Link to="/post2">post 2</Link>
+            <Link to="/post2">Post 2 the horror</Link>
           </li>
         </ul>
       </section>
