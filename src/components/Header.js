@@ -31,7 +31,7 @@ class Layout extends Component {
   render() {
     return (
       <header className="App-header">
-        <h1>
+        <h2>
           <Link to="/blog">Shivangi's blog </Link>
           <Toggle
             defaultChecked={this.state.lightTheme}
@@ -39,7 +39,7 @@ class Layout extends Component {
             className="toggleButton"
             onChange={this.handleThemeChange}
           />
-        </h1>
+        </h2>
       </header>
     );
   }

@@ -44,16 +44,17 @@ class Post extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Scrimba
+                This tutorial on Scrimba
               </a>
             </li>
             <li>
+              Learnt Hooks from{" "}
               <a
                 href="https://www.youtube.com/watch?v=dpw9EHDh2bM"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Learnt Hooks from this talk
+                this talk
               </a>
             </li>
             <li>
@@ -75,20 +76,34 @@ class Post extends Component {
               </a>
             </li>
             <li>
+              A little help from{" "}
               <a
                 href="https://www.freecodecamp.org/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                A little help from FreeCodeCamp
+                FreeCodeCamp
               </a>
             </li>
           </ul>
           <hr />
-          <h3>Side effects</h3>
-          As a side-effect of learning React, I have been receiving multiple
-          interview calls, too :)
-          <br />
+          <h3>Things I love to hate</h3>
+          <p>
+            Will someone please tell me how to deal with client-side routing?!
+            It has been annoying me for weeks now! I ended up using{" "}
+            <code>hashHistory</code> for this blog. You can see the ugliness in
+            the address bar.
+          </p>
+          <hr />
+          <h3>Side-effects</h3>
+          <p>
+            As a side-effect of learning React, I have been receiving multiple
+            interview calls; everyone wants a piece of React.
+            <br />I had started this blog with React then moved to plain HTML5/
+            CSS3/ JavaScript because who wants to use so many technologies for a
+            simple static site. However, I started missing the amazing state
+            management facility and again switched to React.
+          </p>
         </article>
       </>
     );

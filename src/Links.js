@@ -9,9 +9,15 @@ export default class Links extends Component {
         <ul>
           <li key="1">
             <Link to="/post1">My relationship with React</Link>
+            <br />
+            <small>March 31, 2019</small>
+            <br />
+            <span>It has been bittersweet.</span>
           </li>
           <li key="2">
-            <Link to="/post2">Post 2 the horror</Link>
+            <Link to="/">Post 2 </Link>
+            <br />
+            <span>Coming soon...</span>
           </li>
         </ul>
       </section>
