@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/blog/static/js/main.0e61b985.chunk.js"
   },
   {
-    "revision": "b685eba466302ea5642205c19a9e698c",
-    "url": "/blog/static/media/icomoon.b685eba4.woff"
-  },
-  {
     "revision": "bba726b671c04eb61e2f7d5ced36c1a9",
     "url": "/blog/static/media/icomoon.bba726b6.eot"
+  },
+  {
+    "revision": "b685eba466302ea5642205c19a9e698c",
+    "url": "/blog/static/media/icomoon.b685eba4.woff"
   },
   {
     "revision": "27486e857c102ecd168b9a54073325ad",
