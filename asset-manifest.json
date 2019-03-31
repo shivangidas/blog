@@ -1,7 +1,7 @@
 {
   "main.css": "/blog/static/css/main.17248d71.chunk.css",
-  "main.js": "/blog/static/js/main.3f504fad.chunk.js",
-  "main.js.map": "/blog/static/js/main.3f504fad.chunk.js.map",
+  "main.js": "/blog/static/js/main.f92bb76c.chunk.js",
+  "main.js.map": "/blog/static/js/main.f92bb76c.chunk.js.map",
   "static/css/1.7ce87094.chunk.css": "/blog/static/css/1.7ce87094.chunk.css",
   "static/js/1.d60891c5.chunk.js": "/blog/static/js/1.d60891c5.chunk.js",
   "static/js/1.d60891c5.chunk.js.map": "/blog/static/js/1.d60891c5.chunk.js.map",
@@ -10,9 +10,9 @@
   "static/media/books8.jpg": "/blog/static/media/books8.9a6c97a7.jpg",
   "static/media/style.css": "/blog/static/media/icomoon.2a0cc897.svg",
   "static/media/index.css": "/blog/static/media/star_list.cbf3350d.svg",
-  "static/css/1.7ce87094.chunk.css.map": "/blog/static/css/1.7ce87094.chunk.css.map",
   "static/css/main.17248d71.chunk.css.map": "/blog/static/css/main.17248d71.chunk.css.map",
+  "static/css/1.7ce87094.chunk.css.map": "/blog/static/css/1.7ce87094.chunk.css.map",
   "index.html": "/blog/index.html",
-  "precache-manifest.2bb40e4dc4c375dbca3833dbc274848c.js": "/blog/precache-manifest.2bb40e4dc4c375dbca3833dbc274848c.js",
+  "precache-manifest.b59f72569db7207b1c24b08cc5f0e074.js": "/blog/precache-manifest.b59f72569db7207b1c24b08cc5f0e074.js",
   "service-worker.js": "/blog/service-worker.js"
 }
