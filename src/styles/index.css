@@ -102,13 +102,13 @@ footer {
   margin-top: 2%;
 }
 #copyright {
-  padding-top: 0.5rem;
+  font-size: 90%;
 }
 #contactIcons a {
   padding: 0em 0.4em;
   font-size: 1.5rem;
 }
-#contactIcons a#emailId i {
+.icon-mail4 {
   color: #d54a3d;
 }
 #contactIcons a#linkedIn i {
@@ -123,9 +123,6 @@ footer {
 #contactIcons a#twitter i {
   color: #1da1f2;
 }
-#contactIcons a#blogger i {
-  color: #ff5722;
-}
-#contactIcons a#codepen i {
-  color: black;
+.postFooter {
+  font-size: 90%;
 }

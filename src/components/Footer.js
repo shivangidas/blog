@@ -5,17 +5,21 @@ class Footer extends Component {
     return (
       <footer>
         <center>
-          <div className="" id="contactIcons">
+          <div>
             <a
-              href="mailto:catchshivangi@gmail.com"
-              target="_top"
-              id="emailId"
-              title="Email me"
+              href="https://tinyletter.com/shivangi"
+              target="_blank"
               rel="noopener noreferrer"
             >
+              Join the newsletter{" "}
               <i className="icon-mail4" aria-hidden="true" />
             </a>
-            &nbsp;
+          </div>
+          <div id="copyright">
+            <span>Shivangi Das</span>&nbsp; &copy; &nbsp;
+            <span>2019</span>
+          </div>
+          <div id="contactIcons">
             <a
               href="https://in.linkedin.com/in/shivangi-das-49736058"
               target="_blank"
@@ -37,15 +41,6 @@ class Footer extends Component {
             </a>
             &nbsp;
             <a
-              href="https://www.facebook.com/shivangi.das.710"
-              target="_blank"
-              id="facebook"
-              title="Facebook"
-              rel="noopener noreferrer"
-            >
-              <i className="icon-facebook2" aria-hidden="true" />
-            </a>
-            <a
               href="https://twitter.com/iShivangiDas"
               target="_blank"
               id="twitter"
@@ -54,10 +49,6 @@ class Footer extends Component {
             >
               <i className="icon-twitter" aria-hidden="true" />
             </a>
-          </div>
-          <div className="" id="copyright">
-            <span>Shivangi Das</span>&nbsp; &copy; &nbsp;
-            <span>2019</span>
           </div>
         </center>
       </footer>

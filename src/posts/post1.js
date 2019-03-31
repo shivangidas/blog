@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PostFooter from "../components/PostFooter";
 // import Image from "../components/image";
 // import books from "../images/books8.jpg";
 class Post extends Component {
@@ -112,6 +113,7 @@ class Post extends Component {
             owned by Facebook.
           </p>
         </article>
+        <PostFooter />
       </>
     );
   }
