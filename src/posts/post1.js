@@ -6,7 +6,8 @@ class Post extends Component {
     return (
       <>
         <h1>My relationship with React</h1>
-        <blockquote>Will it survive the year?</blockquote>
+        <small>March 31, 2019</small>
+
         <article>
           <p>
             I started learning React out of curiosity seeing the amazing things
