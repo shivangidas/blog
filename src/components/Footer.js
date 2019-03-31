@@ -54,15 +54,6 @@ class Footer extends Component {
             >
               <i className="icon-twitter" aria-hidden="true" />
             </a>
-            <a
-              href="https://codepen.io/ShivangiDas7/"
-              target="_blank"
-              id="codepen"
-              title="CodePen"
-              rel="noopener noreferrer"
-            >
-              <i className="icon-codepen" aria-hidden="true" />
-            </a>
           </div>
           <div className="" id="copyright">
             <span>Shivangi Das</span>&nbsp; &copy; &nbsp;
