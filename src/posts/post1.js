@@ -21,8 +21,7 @@ class Post extends Component {
             forgotten how powerful JavaScript is on its own. I enjoyed trying
             out Next.js, Gatsby, and other ready-to-deploy tools(?). Was
             awestruck by create-react-app and it's amazing developer Dan
-            Abramov. Also, learnt the test-driven approach in Dan's Redux
-            tutorial.
+            Abramov.
           </p>
           <hr />
           <h3>Resources</h3>
@@ -98,11 +97,18 @@ class Post extends Component {
           <h3>Side-effects</h3>
           <p>
             As a side-effect of learning React, I have been receiving multiple
-            interview calls; everyone wants a piece of React.
+            interview calls.
             <br />I had started this blog with React then moved to plain HTML5/
             CSS3/ JavaScript because who wants to use so many technologies for a
             simple static site. However, I started missing the amazing state
             management facility and again switched to React.
+          </p>
+          <hr />
+          <h3>Verdict</h3>
+          <p>
+            I love how well-thought out the whole eco-system is. You need it,
+            they got it. However, I remain sceptical about the fact that it is
+            owned by Facebook.
           </p>
         </article>
       </>
