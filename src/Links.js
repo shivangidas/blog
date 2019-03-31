@@ -33,7 +33,12 @@ export default class Links extends Component {
           <h3>Join the newsletter</h3>
           <p>
             <label htmlFor="tlemail">Enter your email address </label>
-            <input type="text" name="email" id="tlemail" />
+            <input
+              type="text"
+              name="email"
+              id="tlemail"
+              placeholder="Your email address"
+            />
             <br />
             <small>I won't spam. Unsubscribe at any time.</small>
           </p>
