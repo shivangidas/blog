@@ -1,7 +1,7 @@
 {
   "main.css": "/blog/static/css/main.f0bf4754.chunk.css",
-  "main.js": "/blog/static/js/main.9bbdb41e.chunk.js",
-  "main.js.map": "/blog/static/js/main.9bbdb41e.chunk.js.map",
+  "main.js": "/blog/static/js/main.d8c847c9.chunk.js",
+  "main.js.map": "/blog/static/js/main.d8c847c9.chunk.js.map",
   "static/css/1.adfcdb56.chunk.css": "/blog/static/css/1.adfcdb56.chunk.css",
   "static/js/1.d0e5c7b8.chunk.js": "/blog/static/js/1.d0e5c7b8.chunk.js",
   "static/js/1.d0e5c7b8.chunk.js.map": "/blog/static/js/1.d0e5c7b8.chunk.js.map",
@@ -10,9 +10,9 @@
   "static/media/books8.jpg": "/blog/static/media/books8.9a6c97a7.jpg",
   "static/media/style.css": "/blog/static/media/icomoon.0ffb4901.svg",
   "static/media/index.css": "/blog/static/media/star_list.cbf3350d.svg",
-  "static/css/main.f0bf4754.chunk.css.map": "/blog/static/css/main.f0bf4754.chunk.css.map",
   "static/css/1.adfcdb56.chunk.css.map": "/blog/static/css/1.adfcdb56.chunk.css.map",
+  "static/css/main.f0bf4754.chunk.css.map": "/blog/static/css/main.f0bf4754.chunk.css.map",
   "index.html": "/blog/index.html",
-  "precache-manifest.e42f50de37b070df8423b5193570d5da.js": "/blog/precache-manifest.e42f50de37b070df8423b5193570d5da.js",
+  "precache-manifest.a4afe9cf201cc3b0c835fa8b0832a54b.js": "/blog/precache-manifest.a4afe9cf201cc3b0c835fa8b0832a54b.js",
   "service-worker.js": "/blog/service-worker.js"
 }
