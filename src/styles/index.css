@@ -94,6 +94,9 @@ article {
   article {
     text-align: justify;
   }
+  .wrapper {
+	  font-size: calc(12px + 1vmin);
+	}
 }
 footer {
   width: 100%;
