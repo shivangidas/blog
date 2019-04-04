@@ -5,6 +5,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "gh-pages": "^2.0.1",
+    "node-snackbar": "^0.1.15",
     "path": "^0.12.7",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
