@@ -9,7 +9,14 @@
 
 // To learn more about the benefits of this model and instructions on how to
 // opt-in, read http://bit.ly/CRA-PWA
-import Snackbar from "node-snackbar";
+function Snackbar(text) {
+  var x = document.getElementById("snackbar");
+  x.className = "show";
+  x.textContent = text;
+  setTimeout(function() {
+    x.className = x.className.replace("show", "");
+  }, 5000);
+}
 const isLocalhost = Boolean(
   window.location.hostname === "localhost" ||
     // [::1] is the IPv6 localhost address.
@@ -45,10 +52,9 @@ export function register(config) {
             "This web app is being served cache-first by a service " +
               "worker. To learn more, visit http://bit.ly/CRA-PWA"
           );
-          Snackbar.show({
-            pos: "bottom-center",
-            text: "This web app is being served cache-first by a service worker"
-          });
+          Snackbar(
+            "This web app is being served cache-first by a service worker"
+          );
         });
       } else {
         // Is not localhost. Just register service worker
@@ -77,11 +83,9 @@ function registerValidSW(swUrl, config) {
                 "New content is available and will be used when all " +
                   "tabs for this page are closed. See http://bit.ly/CRA-PWA."
               );
-              Snackbar.show({
-                pos: "bottom-center",
-                text:
-                  "New content is available! Close all tabs for this page and open again."
-              });
+              Snackbar(
+                "New content is available! Close all tabs for this page and open again."
+              );
               // Execute callback
               if (config && config.onUpdate) {
                 config.onUpdate(registration);
@@ -91,10 +95,7 @@ function registerValidSW(swUrl, config) {
               // It's the perfect time to display a
               // "Content is cached for offline use." message.
               console.log("Content is cached for offline use.");
-              Snackbar.show({
-                pos: "bottom-center",
-                text: "Content is cached for offline use."
-              });
+              Snackbar("Content is cached for offline use.");
               // Execute callback
               if (config && config.onSuccess) {
                 config.onSuccess(registration);
@@ -134,10 +135,7 @@ function checkValidServiceWorker(swUrl, config) {
       console.log(
         "No internet connection found. App is running in offline mode."
       );
-      Snackbar.show({
-        pos: "bottom-center",
-        text: "No internet connection found. App is running in offline mode."
-      });
+      Snackbar("No internet connection found. App is running in offline mode.");
     });
 }
 

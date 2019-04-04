@@ -16,6 +16,8 @@ class App extends Component {
             <Route path="/post1" component={Post1} />
             <Route path="/post2" component={Post2} />
           </main>
+
+          <div id="snackbar">Some text some message..</div>
           <Footer />
         </div>
       </HashRouter>
