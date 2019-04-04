@@ -17,7 +17,7 @@ export default class Links extends Component {
           <li key="2">
             <Link to="/">Post 2 </Link>
             <br />
-            <small>Coming soon...</small>
+            <small>Coming soon ...</small>
           </li>
         </ul>
       </section>
