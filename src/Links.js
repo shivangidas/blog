@@ -7,17 +7,17 @@ export default class Links extends Component {
       <section>
         <Bio />
         <ul>
+          <li key="2">
+            <Link to="/ServiceWorkers">Service Workers</Link>
+            <br />
+            <small>Did you know this blog runs offline, too?</small>
+          </li>
+          <hr />
           <li key="1">
-            <Link to="/post1">My relationship with React</Link>{" "}
+            <Link to="/ReactAndMe">My relationship with React</Link>{" "}
             <small>March 31, 2019</small>
             <br />
             <small>It has been bittersweet.</small>
-          </li>
-          <hr />
-          <li key="2">
-            <Link to="/">Post 2 </Link>
-            <br />
-            <small>Coming soon ...</small>
           </li>
         </ul>
       </section>
