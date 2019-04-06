@@ -8,7 +8,8 @@ export default class Links extends Component {
         <Bio />
         <ul>
           <li key="2">
-            <Link to="/ServiceWorkers">Service Workers</Link>
+            <Link to="/ServiceWorkers">Service Workers</Link>{" "}
+            <small>April 4, 2019</small>
             <br />
             <small>Did you know this blog runs offline, too?</small>
           </li>
