@@ -4,7 +4,7 @@ class Post extends Component {
   render() {
     return (
       <>
-        <h1>Service Worker Resources</h1>
+        <h1>Service Workers</h1>
         <small>April 6, 2019</small>
 
         <article>
