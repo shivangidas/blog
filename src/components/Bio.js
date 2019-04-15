@@ -4,7 +4,15 @@ class Layout extends Component {
   render() {
     return (
       <p>
-        I enjoy coding and I love reading. Might as well share these things.
+        Personal blog by{" "}
+        <a
+          href="https://twitter.com/iShivangiDas"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Shivangi Das
+        </a>
+        . <br />I enjoy coding and love reading.
       </p>
     );
   }

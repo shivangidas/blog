@@ -24,7 +24,7 @@ body.light {
   --textNormal: #222;
   --textTitle: #222;
   --textDisabled: #8b8686;
-  --textLink: #0d959e;
+  --textLink: #0b838b;
   --hr: hsla(0, 0%, 0%, 0.2);
   --inlineCode-bg: rgba(255, 229, 100, 0.2);
   --inlineCode-text: #1a1a1a;
@@ -34,7 +34,7 @@ body.light {
 body.dark {
   -webkit-font-smoothing: antialiased;
   --bg: #282c35;
-  --header: #0d959e;
+  --header: #0b838b;
   --textNormal: rgba(255, 255, 255, 0.88);
   --textTitle: #ffffff;
   --textDisabled: #8b8686;
