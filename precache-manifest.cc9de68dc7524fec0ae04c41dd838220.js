@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/blog/static/css/main.59796248.chunk.css"
   },
   {
-    "revision": "27486e857c102ecd168b9a54073325ad",
-    "url": "/blog/static/media/icomoon.27486e85.ttf"
+    "revision": "2a0cc8971f9c87819a1e76ca53a9029c",
+    "url": "/blog/static/media/icomoon.2a0cc897.svg"
   },
   {
     "revision": "d60891c5b779cb777110",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/blog/static/media/icomoon.b685eba4.woff"
   },
   {
-    "revision": "2a0cc8971f9c87819a1e76ca53a9029c",
-    "url": "/blog/static/media/icomoon.2a0cc897.svg"
+    "revision": "27486e857c102ecd168b9a54073325ad",
+    "url": "/blog/static/media/icomoon.27486e85.ttf"
   },
   {
     "revision": "d60891c5b779cb777110",
