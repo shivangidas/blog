@@ -48,17 +48,6 @@ class Post extends Component {
           <Code codeString={opOverloadCode} language="language-python" />
           <p>Floor division is something I had not seen before.</p>
           <Code codeString={floorDivCode} language="language-python" />
-          <hr />
-          <p>
-            This blog is mostly for me: to clarify my doubts, to make things
-            easier for me, or to express my opinion. I include resources in
-            every post for people who may stumble upon my blog. However,
-            sometimes maybe our doubts will match and Overfitted's post may end
-            up fitting your needs. Cheers to that!{" "}
-            <span role="img" aria-label="cheers">
-              &#127867;
-            </span>
-          </p>
         </article>
         <PostFooter />
       </>
