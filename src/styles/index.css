@@ -1,18 +1,17 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: var(--bg);
+  color: var(--textNormal);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  color: var(--inlineCode-text);
+  background-color: var(--inlineCode-bg);
 }
-body {
-  background-color: var(--bg);
-  color: var(--textNormal);
-}
+
 h1,
 h2,
 h3 {

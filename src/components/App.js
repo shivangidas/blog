@@ -3,6 +3,7 @@ import { HashRouter, Route } from "react-router-dom";
 import Post1 from "../posts/ReactAndMe";
 import Post2 from "../posts/ServiceWorkers";
 import Post3 from "../posts/Overfitted";
+import Post4 from "../posts/Python";
 import Links from "../Links.js";
 import Header from "./Header";
 import Footer from "./Footer.js";
@@ -17,6 +18,7 @@ class App extends Component {
             <Route path="/ReactAndMe" component={Post1} />
             <Route path="/ServiceWorkers" component={Post2} />
             <Route path="/Overfitted" component={Post3} />
+            <Route path="/Python" component={Post4} />
           </main>
 
           <div id="snackbar">Some text some message..</div>
