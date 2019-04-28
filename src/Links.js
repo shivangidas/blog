@@ -7,6 +7,13 @@ export default class Links extends Component {
       <section>
         <Bio />
         <ul>
+          <li key="4">
+            <Link to="/Python">Python tidbits</Link>{" "}
+            <small>April 22, 2019</small>
+            <br />
+            <small>My notes on Python. As seen on Kaggle.</small>
+          </li>
+          <hr />
           <li key="3">
             <Link to="/Overfitted">What's in a name?</Link>{" "}
             <small>April 15, 2019</small>
