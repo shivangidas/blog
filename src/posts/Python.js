@@ -8,7 +8,7 @@ class Post extends Component {
     var floorDivCode =
       "a = 9 / 2\n#output 4.5 #normal division\nb = 9 // 2\n#output 4 #floor division";
     var docstringCode =
-      'def sum(a,b):\n	"""Finds some of two numbers\n	sample: sum(3,3)\n	output: 6""" \n	return a + b\nhelp(sum)\n#output\nHelp on function sum in module __main__:\n\n  sum(a, b)\n	  Finds some of two numbers\n	  sample: sum(3, 3)\n	  output: 6';
+      'def sum(a,b):\n	"""Finds sum of two numbers\n	sample: sum(3,3)\n	output: 6""" \n	return a + b\nhelp(sum)\n#output\nHelp on function sum in module __main__:\n\n  sum(a, b)\n	  Finds sum of two numbers\n	  sample: sum(3, 3)\n	  output: 6';
     var lambdaCode = "mod_5 = lambda x: x % 5\nmod_5(23)\n#output 3";
     var listCode =
       "a = [1,2,7,3,4,9]\na[: 2] #output [1,2]\nb = [1,2,7,3,4,9]\nb[2:] #output [7, 3, 4, 9]\nc = [1,2,7,3,4,9]\nc[1:-1] #output [2, 7, 3, 4]\n#lists are mutable, hence they were defined multiple times here to show the slicing options.";
