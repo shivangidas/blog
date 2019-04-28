@@ -108,8 +108,8 @@ class Post extends Component {
           of char. <br /> * str.format is worth it's weight in gold.
           <Code language="language-python" codeString={formatCode} />
           <hr />
-          To use libraries other amazing people have built for Python, use{" "}
-          <code>import</code>
+          To use inbuilt libraries or ones other amazing people have built for
+          Python, use <code>import</code>
           <Code language="language-python" codeString="import pandas as pd" />
           Pandas helps with data manipulation and makes it readable.{" "}
           <a
