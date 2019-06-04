@@ -18,8 +18,8 @@ class Post extends Component {
           <p>
             If one tries to do object a = object b to make a copy of 'b', you
             end up with a reference to object 'b'. That means any change to 'a'
-            will affect b's values, too. Except when we are dealing with
-            non-nested array.
+            will affect b's values, too. Except when we are dealing with simple,
+            no-nested-object, non-nested array.
           </p>
           <Code codeString={normalCopy} language="language-javascript" />
           <p>
