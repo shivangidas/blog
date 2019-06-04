@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/blog/static/media/star_list.cbf3350d.svg"
   },
   {
-    "revision": "2419ed516b1a0acb5886",
+    "revision": "26f9818c012fa9689781",
     "url": "/blog/static/css/main.c1aa8783.chunk.css"
   },
   {
@@ -24,27 +24,27 @@ self.__precacheManifest = [
     "url": "/blog/static/media/blogger.56733db5.PNG"
   },
   {
-    "revision": "2419ed516b1a0acb5886",
-    "url": "/blog/static/js/main.2419ed51.chunk.js"
+    "revision": "26f9818c012fa9689781",
+    "url": "/blog/static/js/main.26f9818c.chunk.js"
   },
   {
     "revision": "27486e857c102ecd168b9a54073325ad",
     "url": "/blog/static/media/icomoon.27486e85.ttf"
   },
   {
-    "revision": "bba726b671c04eb61e2f7d5ced36c1a9",
-    "url": "/blog/static/media/icomoon.bba726b6.eot"
-  },
-  {
     "revision": "b685eba466302ea5642205c19a9e698c",
     "url": "/blog/static/media/icomoon.b685eba4.woff"
+  },
+  {
+    "revision": "bba726b671c04eb61e2f7d5ced36c1a9",
+    "url": "/blog/static/media/icomoon.bba726b6.eot"
   },
   {
     "revision": "7ddb4a4d551c366b9911",
     "url": "/blog/static/css/1.1c5d4cb0.chunk.css"
   },
   {
-    "revision": "dd4185d3b8efafbd0abf2141fac7cf60",
+    "revision": "7de09f03686406c581f6ed3d0e4aaf1d",
     "url": "/blog/index.html"
   }
 ];
