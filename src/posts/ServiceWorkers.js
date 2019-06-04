@@ -57,7 +57,7 @@ class Post extends Component {
             the serviceWorker.js file, it would tell the browser about the new
             service worker and allow fetching the resources again. However, when
             the new service worker is registered, the old one continues to work
-            and is only replaced on refreshing the page. <br />
+            and is only replaced on closing and reopening the page. <br />
             There are ways to let the users know about this. Refer{" "}
             <a
               href="https://github.com/shivangidas/blog/blob/master/src/serviceWorker.js"
