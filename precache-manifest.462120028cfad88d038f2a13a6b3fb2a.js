@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/blog/static/media/star_list.cbf3350d.svg"
   },
   {
-    "revision": "5a49e8ac50cbb1fb2c14",
+    "revision": "1ae56e29533d01aab2a7",
     "url": "/blog/static/css/main.ca35646d.chunk.css"
   },
   {
-    "revision": "27486e857c102ecd168b9a54073325ad",
-    "url": "/blog/static/media/icomoon.27486e85.ttf"
+    "revision": "0ffb4901c5402bc0a781deb946295e92",
+    "url": "/blog/static/media/icomoon.0ffb4901.svg"
   },
   {
     "revision": "ec4cafa1832c746329d4",
@@ -24,27 +24,27 @@ self.__precacheManifest = [
     "url": "/blog/static/media/blogger.56733db5.PNG"
   },
   {
-    "revision": "5a49e8ac50cbb1fb2c14",
-    "url": "/blog/static/js/main.5a49e8ac.chunk.js"
+    "revision": "1ae56e29533d01aab2a7",
+    "url": "/blog/static/js/main.1ae56e29.chunk.js"
   },
   {
     "revision": "bba726b671c04eb61e2f7d5ced36c1a9",
     "url": "/blog/static/media/icomoon.bba726b6.eot"
   },
   {
-    "revision": "b685eba466302ea5642205c19a9e698c",
-    "url": "/blog/static/media/icomoon.b685eba4.woff"
+    "revision": "27486e857c102ecd168b9a54073325ad",
+    "url": "/blog/static/media/icomoon.27486e85.ttf"
   },
   {
-    "revision": "0ffb4901c5402bc0a781deb946295e92",
-    "url": "/blog/static/media/icomoon.0ffb4901.svg"
+    "revision": "b685eba466302ea5642205c19a9e698c",
+    "url": "/blog/static/media/icomoon.b685eba4.woff"
   },
   {
     "revision": "ec4cafa1832c746329d4",
     "url": "/blog/static/css/1.8bfb7019.chunk.css"
   },
   {
-    "revision": "7c9d0c0fc704e4ca019e7ac413b4d55b",
+    "revision": "746901ec4b4c8b5a6c315ff2761b6a56",
     "url": "/blog/index.html"
   }
 ];
