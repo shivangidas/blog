@@ -7,6 +7,13 @@ export default class Links extends Component {
       <section>
         <Bio />
         <ul>
+          <li key="6">
+            <Link to="/ScholarshipStory">Scholarship Story</Link>{" "}
+            <small>June 11, 2019</small>
+            <br />
+            <small>List of scholarships in Europe and UK.</small>
+          </li>
+          <hr />
           <li key="5">
             <Link to="/DeepCloneJS">Simple deep clone</Link>{" "}
             <small>June 04, 2019</small>
