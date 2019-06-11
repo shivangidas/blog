@@ -73,7 +73,7 @@ class Post extends Component {
               >
                 British Council India Scholarship
               </a>{" "} for women in STEM
-              : Full scholarship for UK universities. I wasn't aware of it till two of the Universities I had applied to under the above scholarships nominated me for it. Happy side-effect of making an effort. It's important to apply early to be eligible for such scholarship.
+              : Full scholarship for UK universities. I wasn't aware of it till two of the Universities I had applied to under the above scholarships nominated me for it. Happy side-effect of making an effort. It's important to apply early to be eligible for such scholarships.
             </li>
           </ul>      
         </article>
