@@ -1,20 +1,18 @@
 {
-  "files": {
-    "main.css": "/blog/static/css/main.f8a97a71.chunk.css",
-    "main.js": "/blog/static/js/main.56ab7975.chunk.js",
-    "main.js.map": "/blog/static/js/main.56ab7975.chunk.js.map",
-    "runtime~main.js": "/blog/static/js/runtime~main.516a48d0.js",
-    "runtime~main.js.map": "/blog/static/js/runtime~main.516a48d0.js.map",
-    "static/css/2.ca025b70.chunk.css": "/blog/static/css/2.ca025b70.chunk.css",
-    "static/js/2.a01d3f23.chunk.js": "/blog/static/js/2.a01d3f23.chunk.js",
-    "static/js/2.a01d3f23.chunk.js.map": "/blog/static/js/2.a01d3f23.chunk.js.map",
-    "index.html": "/blog/index.html",
-    "precache-manifest.5dca26172beec459c9f184b139ef71ea.js": "/blog/precache-manifest.5dca26172beec459c9f184b139ef71ea.js",
-    "service-worker.js": "/blog/service-worker.js",
-    "static/css/2.ca025b70.chunk.css.map": "/blog/static/css/2.ca025b70.chunk.css.map",
-    "static/css/main.f8a97a71.chunk.css.map": "/blog/static/css/main.f8a97a71.chunk.css.map",
-    "static/media/blogger.PNG": "/blog/static/media/blogger.56733db5.PNG",
-    "static/media/style.css": "/blog/static/media/icomoon.bba726b6.eot",
-    "static/media/index.css": "/blog/static/media/star_list.cbf3350d.svg"
-  }
+  "main.css": "/blog/static/css/main.c1aa8783.chunk.css",
+  "main.js": "/blog/static/js/main.8404d111.chunk.js",
+  "main.js.map": "/blog/static/js/main.8404d111.chunk.js.map",
+  "static/css/1.1c5d4cb0.chunk.css": "/blog/static/css/1.1c5d4cb0.chunk.css",
+  "static/js/1.aa880c78.chunk.js": "/blog/static/js/1.aa880c78.chunk.js",
+  "static/js/1.aa880c78.chunk.js.map": "/blog/static/js/1.aa880c78.chunk.js.map",
+  "runtime~main.js": "/blog/static/js/runtime~main.255cd0f7.js",
+  "runtime~main.js.map": "/blog/static/js/runtime~main.255cd0f7.js.map",
+  "static/media/blogger.PNG": "/blog/static/media/blogger.56733db5.PNG",
+  "static/media/style.css": "/blog/static/media/icomoon.2a0cc897.svg",
+  "static/media/index.css": "/blog/static/media/star_list.cbf3350d.svg",
+  "static/css/main.c1aa8783.chunk.css.map": "/blog/static/css/main.c1aa8783.chunk.css.map",
+  "static/css/1.1c5d4cb0.chunk.css.map": "/blog/static/css/1.1c5d4cb0.chunk.css.map",
+  "index.html": "/blog/index.html",
+  "precache-manifest.000943f81fdeac1140a2afadee1e9734.js": "/blog/precache-manifest.000943f81fdeac1140a2afadee1e9734.js",
+  "service-worker.js": "/blog/service-worker.js"
 }
