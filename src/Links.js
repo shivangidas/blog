@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
 import Bio from "./components/Bio";
 import PostLink from "./components/PostLink";
 export default class Links extends Component {
