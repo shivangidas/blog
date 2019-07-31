@@ -7,6 +7,13 @@ export default class Links extends Component {
       		<section>
         	<Bio />
 			<PostLink 
+			name="Permutation Importance"
+			link="/PermutationImportance"
+			date="June 31, 2019"
+			description="Micro-blog, TIL"
+			icon="&#9889;"
+			/>
+			<PostLink 
 			name="The Scholarship Story"
 			link="/ScholarshipStory"
 			date="June 11, 2019"

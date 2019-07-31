@@ -6,6 +6,7 @@ import Post3 from "../posts/Overfitted";
 import Post4 from "../posts/Python";
 import Post5 from "../posts/DeepCloneJS";
 import Post6 from "../posts/ScholarshipStory";
+import Post7 from "../posts/PermutationImportance";
 import Links from "../Links.js";
 import Header from "./Header";
 import Footer from "./Footer.js";
@@ -23,6 +24,7 @@ class App extends Component {
             <Route path="/Python" component={Post4} />
             <Route path="/DeepCloneJS" component={Post5} />
             <Route path="/ScholarshipStory" component={Post6} />
+            <Route path="/PermutationImportance" component={Post7} />
           </main>
 
           <div id="snackbar">Some text some message..</div>
