@@ -17,6 +17,7 @@ class App extends Component {
       <HashRouter>
         <div className="wrapper">
           <main>
+            <div id="not-snackbar">Some text here</div>
             <Header />
             <Route exact path={["/", "/blog"]} component={Links} />
             <Route path="/ReactAndMe" component={Post1} />
@@ -28,8 +29,6 @@ class App extends Component {
             <Route path="/PermutationImportance" component={Post7} />
             <Route path="/PartialPlots" component={Post8} />
           </main>
-
-          <div id="snackbar">Some text some message..</div>
           <Footer />
         </div>
       </HashRouter>

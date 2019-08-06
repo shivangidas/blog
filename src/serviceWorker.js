@@ -10,7 +10,7 @@
 // To learn more about the benefits of this model and instructions on how to
 // opt-in, read http://bit.ly/CRA-PWA
 function Snackbar(text) {
-  var x = document.getElementById("snackbar");
+  var x = document.getElementById("not-snackbar");
   x.className = "show";
   x.textContent = text;
   setTimeout(function() {
