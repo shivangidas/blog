@@ -13,7 +13,6 @@ function Snackbar(text) {
   var x = document.getElementById("not-snackbar");
   x.className = "show";
   x.textContent = text;
-  x.className = x.className.replace("show", "");
 }
 const isLocalhost = Boolean(
   window.location.hostname === "localhost" ||
