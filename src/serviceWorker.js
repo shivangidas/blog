@@ -53,7 +53,7 @@ export function register(config) {
               "worker. To learn more, visit http://bit.ly/CRA-PWA"
           );
           Snackbar(
-            "This web app is being served cache-first by a service worker"
+            "This web app is being served cache-first by a service worker."
           );
         });
       } else {
