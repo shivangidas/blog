@@ -5,19 +5,18 @@ class PostFooter extends Component {
     return (
       <section className="postFooter">
         <hr />
-        <Link to="/blog">Back to blog posts </Link>
-        <span style={{ float: "right" }}>
-          Send me feedback{" "}
+        <Link to="/blog">Back to blog posts </Link><br></br>
+        <span>
+          Found a correction? {" "}
           <a
-            href="https://twitter.com/iShivangiDas"
+            href="https://github.com/shivangidas/blog/tree/master/src/posts"
             target="_blank"
-            id="twitter"
-            title="Twitter"
+            className="github"
+            title="Github"
             rel="noopener noreferrer"
           >
-            {" "}
-            @iShivangiDas
-            <i className="icon-twitter" aria-hidden="true" />
+            Raise a pull request here {" "}
+            <i className="icon-github" aria-hidden="true" />
           </a>
         </span>
       </section>

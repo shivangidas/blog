@@ -120,16 +120,16 @@ footer {
 .icon-mail4 {
   color: #d54a3d;
 }
-#contactIcons a#linkedIn i {
+#contactIcons a.linkedIn i {
   color: #007bb6;
 }
-#contactIcons a#github i {
+#contactIcons a.github i {
   color: #444444;
 }
-#contactIcons a#facebook i {
+#contactIcons a.facebook i {
   color: #3b5998;
 }
-#contactIcons a#twitter i {
+#contactIcons a.twitter i {
   color: #1da1f2;
 }
 .postFooter {

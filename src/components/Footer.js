@@ -23,7 +23,7 @@ class Footer extends Component {
             <a
               href="https://in.linkedin.com/in/shivangi-das-49736058"
               target="_blank"
-              id="linkedIn"
+              className="linkedIn"
               title="LinkedIn"
               rel="noopener noreferrer"
             >
@@ -33,7 +33,7 @@ class Footer extends Component {
             <a
               href="https://github.com/shivangidas"
               target="_blank"
-              id="github"
+              className="github"
               title="Github"
               rel="noopener noreferrer"
             >
@@ -43,7 +43,7 @@ class Footer extends Component {
             <a
               href="https://twitter.com/iShivangiDas"
               target="_blank"
-              id="twitter"
+              className="twitter"
               title="Twitter"
               rel="noopener noreferrer"
             >
