@@ -44,7 +44,7 @@ class Post extends Component {
           <hr />
           <h3>Why? Can we not just remove each feature one by one, build the model again, and check?</h3>
           <p>
-            Machine Learning is computationally intensive. We don't want to train a model multiple times with each combination. Instead we take the validation or test set and shuffle columns in there to calculate the score. Also we don't want to remove the feature column completely because the model expects it to be there. Shuffling values will work just fine.
+            Machine Learning is computationally intensive. We don't want to train a model multiple times with each combination. Instead we take the validation or test set and shuffle columns in there to calculate the score. Also we don't want to remove the feature column completely because the model expects it to be there. Shuffling values will work just fine. (Edit: we are doing this after the model is fitted.)
           </p>
           <hr />
           <h3>How do we do it?</h3>

@@ -7,10 +7,17 @@ export default class Links extends Component {
       		<section>
         	<Bio />
 			<PostLink 
+			name="Partial Dependence Plots"
+			link="/PartialPlots"
+			date="August 06, 2019"
+			description="Machine Learning | Micro-blog"
+			icon="&#9889;"
+			/>
+			<PostLink 
 			name="Permutation Importance"
 			link="/PermutationImportance"
 			date="June 31, 2019"
-			description="Micro-blog, TIL"
+			description="Machine Learning | Micro-blog"
 			icon="&#9889;"
 			/>
 			<PostLink 
@@ -24,14 +31,14 @@ export default class Links extends Component {
 			name="Simple deep clone in JavaScript"
 			link="/DeepCloneJS"
 			date="June 04, 2019"
-			description="Micro-blog, TIL"
+			description="JavaScript | Micro-blog | Code Snippet"
 			icon="&#9889;"
 			/>
 			<PostLink 
 			name="Python tidbits"
 			link="/Python"
 			date="April 22, 2019"
-			description="My notes on Python. As seen on Kaggle."
+			description="Python | Code Snippets"
 			icon="&#11088;"
 			/>
 			<PostLink 
