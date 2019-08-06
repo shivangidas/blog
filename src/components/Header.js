@@ -31,7 +31,7 @@ class Layout extends Component {
   render() {
     return (
       <header className="App-header">
-        <h2>
+        <h2 className="titleAccessHeader">
           <Link to="/blog">Overfitted </Link>
           <Toggle
             defaultChecked={this.state.lightTheme}

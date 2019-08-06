@@ -81,7 +81,7 @@ ul li {
   list-style-position: inside;
   
 }
-.listClass {
+.listClass, .titleAccessHeader {
   display: flex;
   justify-content: space-between;
 }
