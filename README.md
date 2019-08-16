@@ -1,3 +1,6 @@
+# Overfitted: Personal blog by Shivangi
+I write about tech (Web Dev and Machine Learning). I may sometimes review books and life or make make lists.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
