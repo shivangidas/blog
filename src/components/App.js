@@ -8,6 +8,7 @@ import Post5 from "../posts/DeepCloneJS";
 import Post6 from "../posts/ScholarshipStory";
 import Post7 from "../posts/PermutationImportance";
 import Post8 from "../posts/PDP";
+import Post9 from "../posts/ShapValues";
 import Links from "../Links.js";
 import Header from "./Header";
 import Footer from "./Footer.js";
@@ -28,6 +29,7 @@ class App extends Component {
             <Route path="/ScholarshipStory" component={Post6} />
             <Route path="/PermutationImportance" component={Post7} />
             <Route path="/PartialPlots" component={Post8} />
+            <Route path="/ShapValues" component={Post9} />
           </main>
           <Footer />
         </div>
