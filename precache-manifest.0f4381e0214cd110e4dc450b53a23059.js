@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/blog/static/media/Shap.ebb7a91f.PNG"
   },
   {
-    "revision": "55310bd0ac193ab5d10b",
+    "revision": "5f24fd5972a85f1194a1",
     "url": "/blog/static/css/main.d85058b8.chunk.css"
   },
   {
-    "revision": "2a0cc8971f9c87819a1e76ca53a9029c",
-    "url": "/blog/static/media/icomoon.2a0cc897.svg"
+    "revision": "b685eba466302ea5642205c19a9e698c",
+    "url": "/blog/static/media/icomoon.b685eba4.woff"
   },
   {
     "revision": "3fdc1ba13876ee26e8ec",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/blog/static/media/pdp-min.69e1e992.PNG"
   },
   {
-    "revision": "55310bd0ac193ab5d10b",
-    "url": "/blog/static/js/main.55310bd0.chunk.js"
+    "revision": "5f24fd5972a85f1194a1",
+    "url": "/blog/static/js/main.5f24fd59.chunk.js"
   },
   {
     "revision": "cbf3350d737fd7b46901e47a38c6bc52",
@@ -44,15 +44,15 @@ self.__precacheManifest = [
     "url": "/blog/static/media/icomoon.27486e85.ttf"
   },
   {
-    "revision": "b685eba466302ea5642205c19a9e698c",
-    "url": "/blog/static/media/icomoon.b685eba4.woff"
+    "revision": "2a0cc8971f9c87819a1e76ca53a9029c",
+    "url": "/blog/static/media/icomoon.2a0cc897.svg"
   },
   {
     "revision": "3fdc1ba13876ee26e8ec",
     "url": "/blog/static/css/1.dcff8ce8.chunk.css"
   },
   {
-    "revision": "d3911cb0ae8c957e505a362d58f477fc",
+    "revision": "8aaee4a2804d037d7eaaf00e797a7493",
     "url": "/blog/index.html"
   }
 ];
