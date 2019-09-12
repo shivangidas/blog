@@ -102,7 +102,7 @@ class Post extends Component {
               this{" "}
             </a>{" "}
             for more. Also this post completes our journey exploring
-            interpretations of Machine Leaning predictions!
+            interpretations of Machine Learning predictions!
           </p>
         </article>
         <PostFooter />
