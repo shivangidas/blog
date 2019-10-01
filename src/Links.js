@@ -11,7 +11,7 @@ export default class Links extends Component {
           link="/LifeAtTimeZero"
           date="October 01, 2019"
           description="Major Life Update"
-          icon="&#127891;"
+          icon="&#10024;"
         />
         <PostLink
           name="Shapely values"
