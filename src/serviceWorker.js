@@ -133,7 +133,7 @@ function checkValidServiceWorker(swUrl, config) {
         "No internet connection found. App is running in offline mode."
       );
       Snackbar(
-        "No internet connection found. The app is running in offline mode!"
+        "No internet connection found. The app is running in offline mode."
       );
     });
 }

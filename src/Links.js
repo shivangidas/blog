@@ -7,6 +7,13 @@ export default class Links extends Component {
       <section>
         <Bio />
         <PostLink
+          name="Life at Time Zero"
+          link="/LifeAtTimeZero"
+          date="October 01, 2019"
+          description="Major Life Update"
+          icon="&#127891;"
+        />
+        <PostLink
           name="Shapely values"
           link="/ShapValues"
           date="September 09, 2019"
