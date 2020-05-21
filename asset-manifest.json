@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/blog/static/css/main.6cf05e98.chunk.css",
-    "main.js": "/blog/static/js/main.95da9f92.chunk.js",
-    "main.js.map": "/blog/static/js/main.95da9f92.chunk.js.map",
-    "runtime~main.js": "/blog/static/js/runtime~main.516a48d0.js",
-    "runtime~main.js.map": "/blog/static/js/runtime~main.516a48d0.js.map",
-    "static/css/2.ca025b70.chunk.css": "/blog/static/css/2.ca025b70.chunk.css",
-    "static/js/2.c2e847d5.chunk.js": "/blog/static/js/2.c2e847d5.chunk.js",
-    "static/js/2.c2e847d5.chunk.js.map": "/blog/static/js/2.c2e847d5.chunk.js.map",
+    "main.css": "/blog/static/css/main.2048e41d.chunk.css",
+    "main.js": "/blog/static/js/main.15d00e98.chunk.js",
+    "main.js.map": "/blog/static/js/main.15d00e98.chunk.js.map",
+    "runtime-main.js": "/blog/static/js/runtime-main.a5ebe4ff.js",
+    "runtime-main.js.map": "/blog/static/js/runtime-main.a5ebe4ff.js.map",
+    "static/css/2.9de2e04a.chunk.css": "/blog/static/css/2.9de2e04a.chunk.css",
+    "static/js/2.78eaa2ce.chunk.js": "/blog/static/js/2.78eaa2ce.chunk.js",
+    "static/js/2.78eaa2ce.chunk.js.map": "/blog/static/js/2.78eaa2ce.chunk.js.map",
     "index.html": "/blog/index.html",
-    "precache-manifest.95d296a8025eb8206e09a06879c075b4.js": "/blog/precache-manifest.95d296a8025eb8206e09a06879c075b4.js",
+    "precache-manifest.a1060a3373c2d74cde020ef4fdae8db4.js": "/blog/precache-manifest.a1060a3373c2d74cde020ef4fdae8db4.js",
     "service-worker.js": "/blog/service-worker.js",
-    "static/css/2.ca025b70.chunk.css.map": "/blog/static/css/2.ca025b70.chunk.css.map",
-    "static/css/main.6cf05e98.chunk.css.map": "/blog/static/css/main.6cf05e98.chunk.css.map",
+    "static/css/2.9de2e04a.chunk.css.map": "/blog/static/css/2.9de2e04a.chunk.css.map",
+    "static/css/main.2048e41d.chunk.css.map": "/blog/static/css/main.2048e41d.chunk.css.map",
+    "static/js/2.78eaa2ce.chunk.js.LICENSE.txt": "/blog/static/js/2.78eaa2ce.chunk.js.LICENSE.txt",
     "static/media/ChristmasSteps.jpg": "/blog/static/media/ChristmasSteps.77e54c15.jpg",
     "static/media/OldTown.jpg": "/blog/static/media/OldTown.ccf81444.jpg",
     "static/media/Shap.PNG": "/blog/static/media/Shap.ebb7a91f.PNG",
@@ -22,5 +23,12 @@
     "static/media/style.css": "/blog/static/media/icomoon.bba726b6.eot",
     "static/media/pdp-min.PNG": "/blog/static/media/pdp-min.69e1e992.PNG",
     "static/media/index.css": "/blog/static/media/star_list.cbf3350d.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5ebe4ff.js",
+    "static/css/2.9de2e04a.chunk.css",
+    "static/js/2.78eaa2ce.chunk.js",
+    "static/css/main.2048e41d.chunk.css",
+    "static/js/main.15d00e98.chunk.js"
+  ]
 }
