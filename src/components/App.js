@@ -10,6 +10,7 @@ import Post7 from "../posts/PermutationImportance";
 import Post8 from "../posts/PDP";
 import Post9 from "../posts/ShapValues";
 import Post10 from "../posts/LifeAtTimeZero";
+import Post11 from "../posts/HowMean";
 import Links from "../Links.js";
 import Header from "./Header";
 import Footer from "./Footer.js";
@@ -32,6 +33,7 @@ class App extends Component {
             <Route path="/PartialPlots" component={Post8} />
             <Route path="/ShapValues" component={Post9} />
             <Route path="/LifeAtTimeZero" component={Post10} />
+            <Route path="/HowMean" component={Post11} />
           </main>
           <Footer />
         </div>
