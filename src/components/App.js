@@ -12,7 +12,7 @@ import Post9 from "../posts/ShapValues";
 import Post10 from "../posts/LifeAtTimeZero";
 import Post11 from "../posts/HowMean";
 import Links from "../Links.js";
-import Header from "./Header";
+import Header from "./HeaderHooks";
 import Footer from "./Footer.js";
 class App extends Component {
   render() {
