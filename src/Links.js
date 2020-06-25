@@ -7,6 +7,13 @@ export default class Links extends Component {
       <section>
         <Bio />
         <PostLink
+          name="Hooks"
+          link="/Hooked"
+          date="June 25, 2020"
+          description="React | Code-Snippet"
+          icon="&#9889;"
+        />
+        <PostLink
           name="Standard Deviation"
           link="/HowMean"
           date="May 20, 2020"

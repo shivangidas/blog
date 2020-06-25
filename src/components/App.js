@@ -11,6 +11,7 @@ import Post8 from "../posts/PDP";
 import Post9 from "../posts/ShapValues";
 import Post10 from "../posts/LifeAtTimeZero";
 import Post11 from "../posts/HowMean";
+import Post12 from "../posts/Hooked";
 import Links from "../Links.js";
 import Header from "./HeaderHooks";
 import Footer from "./Footer.js";
@@ -34,6 +35,7 @@ class App extends Component {
             <Route path="/ShapValues" component={Post9} />
             <Route path="/LifeAtTimeZero" component={Post10} />
             <Route path="/HowMean" component={Post11} />
+            <Route path="/Hooked" component={Post12} />
           </main>
           <Footer />
         </div>
