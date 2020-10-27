@@ -12,6 +12,7 @@ import Post9 from "../posts/ShapValues";
 import Post10 from "../posts/LifeAtTimeZero";
 import Post11 from "../posts/HowMean";
 import Post12 from "../posts/Hooked";
+import Post13 from "../posts/travellingCat";
 import Links from "../Links.js";
 import Header from "./HeaderHooks";
 import Footer from "./Footer.js";
@@ -36,6 +37,7 @@ class App extends Component {
             <Route path="/LifeAtTimeZero" component={Post10} />
             <Route path="/HowMean" component={Post11} />
             <Route path="/Hooked" component={Post12} />
+            <Route path="/TravellingCat" component={Post13} />
           </main>
           <Footer />
         </div>

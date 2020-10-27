@@ -7,6 +7,13 @@ export default class Links extends Component {
       <section>
         <Bio />
         <PostLink
+          name="The Travelling Cat Chronicles"
+          link="/TravellingCat"
+          date="October 27, 2020"
+          description="Book review"
+          icon="&#128218;"
+        />
+        <PostLink
           name="Hooks"
           link="/Hooked"
           date="June 25, 2020"
