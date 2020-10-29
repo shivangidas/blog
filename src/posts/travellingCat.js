@@ -34,9 +34,6 @@ class Post extends Component {
         way too many times.
         <br />
         <br />
-        <a href="https://www.goodreads.com/review/list/31583373-shivangi-das">
-          View all my reviews on Goodreads
-        </a>
         <PostFooter />
       </>
     );

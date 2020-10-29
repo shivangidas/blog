@@ -14,6 +14,13 @@ export default class Links extends Component {
           icon="&#128218;"
         />
         <PostLink
+          name="The Overstory"
+          link="/Overstory"
+          date="September 10, 2020"
+          description="Book review"
+          icon="&#128218;"
+        />
+        <PostLink
           name="Hooks"
           link="/Hooked"
           date="June 25, 2020"
