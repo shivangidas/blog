@@ -104,6 +104,13 @@ export default class Links extends Component {
           description="It has been bittersweet."
           icon="&#127881;"
         />
+        <PostLink
+          name="Good Omens"
+          link="/GoodOmens"
+          date="May 12, 2016"
+          description="Book review"
+          icon="&#128218;"
+        />
       </section>
     );
   }
