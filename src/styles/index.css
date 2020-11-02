@@ -79,9 +79,9 @@ ul li {
   list-style-type: none;
   list-style-image: url("../images/star_list.svg");
   list-style-position: inside;
-  
 }
-.listClass, .titleAccessHeader {
+.listClass,
+.titleAccessHeader {
   display: flex;
   justify-content: space-between;
 }
@@ -196,4 +196,10 @@ footer {
     bottom: 0;
     opacity: 0;
   }
+}
+
+.search-box {
+  margin-bottom: 0.5em;
+  padding: 0.5em;
+  box-shadow: 0 0 4px 1px #dfeced;
 }
