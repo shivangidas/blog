@@ -17,7 +17,7 @@ class Footer extends Component {
           </div>
           <div id="copyright">
             <span>Shivangi Das</span>&nbsp; &copy; &nbsp;
-            <span>2019</span>
+            <span>2019-20</span>
           </div>
           <div id="contactIcons">
             <a
