@@ -9,7 +9,10 @@ function Links() {
   useEffect(() => {
     setFilteredLinks(
       linksCollection.filter(link => {
-        return link.description.toLowerCase().includes(search.toLowerCase());
+        return (
+          link.description.toLowerCase().includes(search.toLowerCase()) ||
+          link.name.toLowerCase().includes(search.toLowerCase())
+        );
       })
     );
   }, [search]);
@@ -31,7 +34,7 @@ function Links() {
         <label>Search </label>
         <input
           type="text"
-          placeholder="by tags"
+          placeholder="e.g. Review"
           onChange={e => setSearch(e.target.value)}
         />{" "}
         {/* <input

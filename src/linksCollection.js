@@ -91,7 +91,7 @@ export default [
     icon: "🎁"
   },
   {
-    name: "My relationship with React. \n It has been bittersweet.",
+    name: "My relationship with React.",
     link: "/ReactAndMe",
     date: "March 31, 2019",
     description: "React",
