@@ -1,5 +1,12 @@
 export default [
   {
+    name: "Week 45",
+    link: "/week45",
+    date: "November 6, 2020",
+    description: "Life review",
+    icon: "🦄"
+  },
+  {
     name: "The Travelling Cat Chronicles",
     link: "/TravellingCat",
     date: "October 27, 2020",

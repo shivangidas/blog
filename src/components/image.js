@@ -11,7 +11,9 @@ class Image extends React.Component {
           height={imageProps.height ? imageProps.height : ""}
           width={imageProps.width ? imageProps.width : ""}
         />
-        <figcaption>{imageProps.caption ? imageProps.caption : ""}</figcaption>
+        <figcaption>
+          <i>{imageProps.caption ? imageProps.caption : ""}</i>
+        </figcaption>
       </figure>
     );
   }

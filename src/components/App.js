@@ -15,6 +15,7 @@ import Post12 from "../posts/Hooked";
 import Post13 from "../posts/travellingCat";
 import Post14 from "../posts/Overstory";
 import Post15 from "../posts/GoodOmens";
+import Post16 from "../posts/week45";
 import Links from "../Links.js";
 import Header from "./HeaderHooks";
 import Footer from "./Footer.js";
@@ -43,6 +44,7 @@ class App extends Component {
               <Route path="/TravellingCat" component={Post13} />
               <Route path="/Overstory" component={Post14} />
               <Route path="/GoodOmens" component={Post15} />
+              <Route path="/Week45" component={Post16} />
             </main>
             <div className="push"></div>
           </div>
