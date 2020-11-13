@@ -16,6 +16,7 @@ import Post13 from "../posts/travellingCat";
 import Post14 from "../posts/Overstory";
 import Post15 from "../posts/GoodOmens";
 import Post16 from "../posts/week45";
+import Post17 from "../posts/week46";
 import Links from "../Links.js";
 import Header from "./HeaderHooks";
 import Footer from "./Footer.js";
@@ -45,6 +46,7 @@ class App extends Component {
               <Route path="/Overstory" component={Post14} />
               <Route path="/GoodOmens" component={Post15} />
               <Route path="/Week45" component={Post16} />
+              <Route path="/Week46" component={Post17} />
             </main>
             <div className="push"></div>
           </div>

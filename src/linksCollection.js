@@ -1,9 +1,16 @@
 export default [
   {
+    name: "Week 46",
+    link: "/week46",
+    date: "November 13, 2020",
+    description: "Life review | Weekly update",
+    icon: "🌈"
+  },
+  {
     name: "Week 45",
     link: "/week45",
     date: "November 6, 2020",
-    description: "Life review",
+    description: "Life review | Weekly update",
     icon: "🦄"
   },
   {

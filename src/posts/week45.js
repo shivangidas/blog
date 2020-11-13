@@ -88,7 +88,7 @@ class Post extends Component {
             my Instagram stories. Here's a sample
             <Image
               src={pic1}
-              alt="Library book"
+              alt="Library book in front of a university sign"
               caption="Borrowed this classic from the library"
               width="100%"
               height="auto"
