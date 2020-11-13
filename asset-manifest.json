@@ -1,24 +1,26 @@
 {
   "files": {
     "main.css": "/blog/static/css/main.f7661901.chunk.css",
-    "main.js": "/blog/static/js/main.26c6c255.chunk.js",
-    "main.js.map": "/blog/static/js/main.26c6c255.chunk.js.map",
+    "main.js": "/blog/static/js/main.99be90ca.chunk.js",
+    "main.js.map": "/blog/static/js/main.99be90ca.chunk.js.map",
     "runtime-main.js": "/blog/static/js/runtime-main.1dc37962.js",
     "runtime-main.js.map": "/blog/static/js/runtime-main.1dc37962.js.map",
     "static/css/2.ad109a12.chunk.css": "/blog/static/css/2.ad109a12.chunk.css",
-    "static/js/2.a474689c.chunk.js": "/blog/static/js/2.a474689c.chunk.js",
-    "static/js/2.a474689c.chunk.js.map": "/blog/static/js/2.a474689c.chunk.js.map",
+    "static/js/2.f79308e2.chunk.js": "/blog/static/js/2.f79308e2.chunk.js",
+    "static/js/2.f79308e2.chunk.js.map": "/blog/static/js/2.f79308e2.chunk.js.map",
     "index.html": "/blog/index.html",
-    "precache-manifest.b70453962816e29a2b305cceb9d6a346.js": "/blog/precache-manifest.b70453962816e29a2b305cceb9d6a346.js",
+    "precache-manifest.ad73c72eb98a1d12212023d8b0a156f8.js": "/blog/precache-manifest.ad73c72eb98a1d12212023d8b0a156f8.js",
     "service-worker.js": "/blog/service-worker.js",
     "static/css/2.ad109a12.chunk.css.map": "/blog/static/css/2.ad109a12.chunk.css.map",
     "static/css/main.f7661901.chunk.css.map": "/blog/static/css/main.f7661901.chunk.css.map",
-    "static/js/2.a474689c.chunk.js.LICENSE.txt": "/blog/static/js/2.a474689c.chunk.js.LICENSE.txt",
+    "static/js/2.f79308e2.chunk.js.LICENSE.txt": "/blog/static/js/2.f79308e2.chunk.js.LICENSE.txt",
     "static/media/ChristmasSteps.jpg": "/blog/static/media/ChristmasSteps.77e54c15.jpg",
     "static/media/OldTown.jpg": "/blog/static/media/OldTown.ccf81444.jpg",
     "static/media/Shap.PNG": "/blog/static/media/Shap.ebb7a91f.PNG",
     "static/media/ViewFromCabotTower.jpg": "/blog/static/media/ViewFromCabotTower.1c93bb66.jpg",
     "static/media/blogger.PNG": "/blog/static/media/blogger.56733db5.PNG",
+    "static/media/cemetery.jpg": "/blog/static/media/cemetery.79cd3e16.jpg",
+    "static/media/cliftonbridge.jpg": "/blog/static/media/cliftonbridge.7372333e.jpg",
     "static/media/gull.jpg": "/blog/static/media/gull.e357505d.jpg",
     "static/media/style.css": "/blog/static/media/icomoon.bba726b6.eot",
     "static/media/pdp-min.PNG": "/blog/static/media/pdp-min.69e1e992.PNG",
@@ -28,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.1dc37962.js",
     "static/css/2.ad109a12.chunk.css",
-    "static/js/2.a474689c.chunk.js",
+    "static/js/2.f79308e2.chunk.js",
     "static/css/main.f7661901.chunk.css",
-    "static/js/main.26c6c255.chunk.js"
+    "static/js/main.99be90ca.chunk.js"
   ]
 }
