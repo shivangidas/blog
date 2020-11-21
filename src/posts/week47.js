@@ -137,7 +137,7 @@ class Post extends Component {
               Songs from a new movie <strong>Ludo</strong>{" "}
             </a>
             <br />
-            Been listened to a song <i>Aabaad Barbaad</i> on repeat. It's
+            Been listening to a song <i>Aabaad Barbaad</i> on repeat. It's
             playing right now :D
           </p>
           <h3>What am I doing</h3>
