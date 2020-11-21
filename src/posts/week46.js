@@ -119,7 +119,7 @@ class Post extends Component {
             The weather was pleasant this week and I got some great pictures.
             <Image
               src={cemetery}
-              alt="Path through cememtery"
+              alt="Path through cemetery"
               caption="There's something about cemeteries that brings a calm to me."
               width="100%"
               height="auto"
