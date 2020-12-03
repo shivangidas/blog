@@ -1,23 +1,26 @@
 import React, { Component } from "react";
 import { HashRouter, Route } from "react-router-dom";
-import Post1 from "../posts/ReactAndMe";
-import Post2 from "../posts/ServiceWorkers";
-import Post3 from "../posts/Overfitted";
-import Post4 from "../posts/Python";
-import Post5 from "../posts/DeepCloneJS";
-import Post6 from "../posts/ScholarshipStory";
-import Post7 from "../posts/PermutationImportance";
-import Post8 from "../posts/PDP";
-import Post9 from "../posts/ShapValues";
-import Post10 from "../posts/LifeAtTimeZero";
-import Post11 from "../posts/HowMean";
-import Post12 from "../posts/Hooked";
-import Post13 from "../posts/travellingCat";
-import Post14 from "../posts/Overstory";
-import Post15 from "../posts/GoodOmens";
-import Post16 from "../posts/week45";
-import Post17 from "../posts/week46";
-import Post18 from "../posts/week47";
+import {
+  Post1,
+  Post2,
+  Post3,
+  Post4,
+  Post5,
+  Post6,
+  Post7,
+  Post8,
+  Post9,
+  Post10,
+  Post11,
+  Post12,
+  Post13,
+  Post14,
+  Post15,
+  Post16,
+  Post17,
+  Post18,
+  Post19
+} from "../posts";
 import Links from "../Links.js";
 import Header from "./HeaderHooks";
 import Footer from "./Footer.js";
@@ -49,6 +52,7 @@ class App extends Component {
               <Route path="/Week45" component={Post16} />
               <Route path="/Week46" component={Post17} />
               <Route path="/Week47" component={Post18} />
+              <Route path="/Outliers" component={Post19} />
             </main>
             <div className="push"></div>
           </div>
