@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/blog/static/css/main.f7661901.chunk.css",
-    "main.js": "/blog/static/js/main.e8b5d86d.chunk.js",
-    "main.js.map": "/blog/static/js/main.e8b5d86d.chunk.js.map",
+    "main.js": "/blog/static/js/main.2fdaa036.chunk.js",
+    "main.js.map": "/blog/static/js/main.2fdaa036.chunk.js.map",
     "runtime-main.js": "/blog/static/js/runtime-main.1dc37962.js",
     "runtime-main.js.map": "/blog/static/js/runtime-main.1dc37962.js.map",
     "static/css/2.ad109a12.chunk.css": "/blog/static/css/2.ad109a12.chunk.css",
-    "static/js/2.f6a4f64b.chunk.js": "/blog/static/js/2.f6a4f64b.chunk.js",
-    "static/js/2.f6a4f64b.chunk.js.map": "/blog/static/js/2.f6a4f64b.chunk.js.map",
+    "static/js/2.0aec7f41.chunk.js": "/blog/static/js/2.0aec7f41.chunk.js",
+    "static/js/2.0aec7f41.chunk.js.map": "/blog/static/js/2.0aec7f41.chunk.js.map",
     "index.html": "/blog/index.html",
-    "precache-manifest.b66bae1c7bc66ddadbdfd75f65bbc369.js": "/blog/precache-manifest.b66bae1c7bc66ddadbdfd75f65bbc369.js",
+    "precache-manifest.574574177e322742f8284e90bfa4a0e8.js": "/blog/precache-manifest.574574177e322742f8284e90bfa4a0e8.js",
     "service-worker.js": "/blog/service-worker.js",
     "static/css/2.ad109a12.chunk.css.map": "/blog/static/css/2.ad109a12.chunk.css.map",
     "static/css/main.f7661901.chunk.css.map": "/blog/static/css/main.f7661901.chunk.css.map",
-    "static/js/2.f6a4f64b.chunk.js.LICENSE.txt": "/blog/static/js/2.f6a4f64b.chunk.js.LICENSE.txt",
+    "static/js/2.0aec7f41.chunk.js.LICENSE.txt": "/blog/static/js/2.0aec7f41.chunk.js.LICENSE.txt",
     "static/media/ChristmasSteps.jpg": "/blog/static/media/ChristmasSteps.77e54c15.jpg",
     "static/media/OldTown.jpg": "/blog/static/media/OldTown.ccf81444.jpg",
     "static/media/Shap.PNG": "/blog/static/media/Shap.ebb7a91f.PNG",
@@ -24,6 +24,8 @@
     "static/media/cliftonbridge.jpg": "/blog/static/media/cliftonbridge.7372333e.jpg",
     "static/media/gull.jpg": "/blog/static/media/gull.e357505d.jpg",
     "static/media/style.css": "/blog/static/media/icomoon.bba726b6.eot",
+    "static/media/jesmondDene.jpg": "/blog/static/media/jesmondDene.7eb60190.jpg",
+    "static/media/newcastle.jpg": "/blog/static/media/newcastle.3a690ad8.jpg",
     "static/media/pdp-min.PNG": "/blog/static/media/pdp-min.69e1e992.PNG",
     "static/media/pic1.jpg": "/blog/static/media/pic1.45a9b963.jpg",
     "static/media/index.css": "/blog/static/media/star_list.cbf3350d.svg"
@@ -31,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.1dc37962.js",
     "static/css/2.ad109a12.chunk.css",
-    "static/js/2.f6a4f64b.chunk.js",
+    "static/js/2.0aec7f41.chunk.js",
     "static/css/main.f7661901.chunk.css",
-    "static/js/main.e8b5d86d.chunk.js"
+    "static/js/main.2fdaa036.chunk.js"
   ]
 }
