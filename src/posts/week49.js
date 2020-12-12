@@ -7,7 +7,7 @@ class Post extends Component {
   render() {
     return (
       <>
-        <h1>Week 47: New city</h1>
+        <h1>Week 49: New city</h1>
         <small>December 5, 2020</small>
 
         <article>
