@@ -14,7 +14,8 @@ class Post extends Component {
             has not been helpful but it is still fun going out in the rain if
             I'm dressed for it (and it always rains in England so not a
             shocker). I have been experimenting with food and actually enjoying
-            it.
+            it. I am extremely thankful to all the people checking in on me
+            these days.
           </p>
           <hr />
           <h3>Books</h3>
