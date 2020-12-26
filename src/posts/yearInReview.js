@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import PostFooter from "../components/PostFooter";
+import Image from "../components/image";
+import journal from "../images/journal.jpg";
 class Post extends Component {
   render() {
     return (
@@ -10,32 +12,7 @@ class Post extends Component {
         <article>
           <p>Reflection is as much about celebration as about letting go.</p>
           <hr />
-          <h3>Health</h3>
-          <p>
-            With a pandemic, health has been a universal priority this year.
-          </p>
-          <h4>What went right</h4>
-          <p>
-            I was lucky enough that me and my family were mostly healthy and not
-            affected by the virus. I ate really healthy this year considering I
-            was on a student budget in the UK :) My weight stayed at a constant
-            50. This year was about walks. As for my mental health, I learned to
-            let go of stress towards the end of the year after being diagnosed
-            with a stress related sickness.
-          </p>
 
-          <h4>What didn't go so well</h4>
-          <p>
-            Was diagnosed with PCOS and injured my knee. Although I have
-            discovered the knee needs regular exercise for a stronger core and
-            hips and I need to get better shoes.
-          </p>
-          <h4>My hope for 2021</h4>
-          <p>
-            Hoping I don't get the virus. Would like to continue exercising
-            regularly, maybe get in some hiking. Looking forward to beach walks
-            :)
-          </p>
           <h3>Family</h3>
           <p>
             There was sickness and I was scared. However, looking back things
@@ -62,12 +39,24 @@ class Post extends Component {
             Now I am glad that I did it although I hated not earning for a year
             (so thankful for the scholarship). I enjoyed working on my
             dissertation on calculating energy consumption by large NLP and
-            Computer Vision models, was taught by some amazing lecturers, and
-            got to work with a bot!
+            Computer Vision models during training and serving. I was taught by
+            some amazing lecturers and got to work with a bot!
           </p>
           <p>
-            In the work area, DWP Digital hired me as a Software Engineer. I am
-            starting in the new year.{" "}
+            The job scene has been bleak for most people and I am hoping it will
+            be better next year. DWP Digital hired me as a Software Engineer. I
+            am starting in the new year. There's more on work and education in a
+            previous blog{" "}
+            <strong>
+              <a
+                href="https://shivangidas.github.io/blog/#/Outliers"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                here.
+              </a>
+            </strong>
+            <br />
           </p>
           <h3>Travel</h3>
           <p>
@@ -106,6 +95,15 @@ class Post extends Component {
           <p>
             Things have always been hard but especially this year in isolation
             and away from my usual people. I am thankful to just have survived.
+            I kept a gratitude journal, listing things am thankful for each day,
+            and that has helped a lot.{" "}
+            <Image
+              src={journal}
+              alt="Screenshot of my gratitude journal"
+              caption="Snippet from my gratitude journal"
+              width="100%"
+              height="auto"
+            />
           </p>
           <h3>Finances</h3>
           <p>
@@ -117,8 +115,9 @@ class Post extends Component {
           </p>
           <h3>Hobbies</h3>
           <p>
-            I learned to make comics! I also blogged more often towards the end
-            of the year and want to continue doing that in the new year.
+            I learned to make comics! Chickened out by how bad my drawings
+            looked. I also blogged more often towards the end of the year and
+            want to continue doing that in the new year.
           </p>
           <h3>Books</h3>
           <p>
@@ -135,6 +134,32 @@ class Post extends Component {
               </a>
             </strong>{" "}
             from Goodreads here.
+          </p>
+          <h3>Health</h3>
+          <p>
+            With a pandemic, health has been a universal priority this year.
+          </p>
+          <h4>What went right</h4>
+          <p>
+            I was lucky enough that me and my family were mostly healthy and not
+            affected by the virus. I ate really healthy this year considering I
+            was on a student budget in the UK :) My weight stayed at a constant
+            50. This year was about walks. As for my mental health, I learned to
+            let go of stress towards the end of the year after being diagnosed
+            with a stress related sickness.
+          </p>
+
+          <h4>What didn't go so well</h4>
+          <p>
+            Was diagnosed with PCOS and injured my knee. Although I have
+            discovered the knee needs regular exercise for a stronger core and
+            hips and I need to get better shoes.
+          </p>
+          <h4>My hope for 2021</h4>
+          <p>
+            Hoping I don't get the virus. Would like to continue exercising
+            regularly, maybe get in some hiking. Looking forward to beach walks
+            :)
           </p>
           <hr />
           <p>That's all for this year!</p>
