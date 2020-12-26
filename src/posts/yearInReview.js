@@ -58,9 +58,12 @@ class Post extends Component {
           <p>
             I achieved a Masters Degree in AI with a distinction! Couldn't have
             imagined a few years ago I would even opt for a masters because I
-            loved working and have never been a fan of academia. But here we
-            are. Now I am glad that I did it although I did hate not earning for
-            a year.
+            love working and have never been a fan of academia. But here we are.
+            Now I am glad that I did it although I hated not earning for a year
+            (so thankful for the scholarship). I enjoyed working on my
+            dissertation on calculating energy consumption by large NLP and
+            Computer Vision models, was taught by some amazing lecturers, and
+            got to work with a bot!
           </p>
           <p>
             In the work area, DWP Digital hired me as a Software Engineer. I am
