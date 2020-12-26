@@ -1,5 +1,12 @@
 export default [
   {
+    name: "Week 52",
+    link: "/week52",
+    date: "December 26, 2020",
+    description: "Year in review",
+    icon: "🌈"
+  },
+  {
     name: "Week 50",
     link: "/week50",
     date: "December 12, 2020",

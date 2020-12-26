@@ -19,6 +19,7 @@ import Post18 from "./week47";
 import Post19 from "./Outlier";
 import Post20 from "./week49";
 import Post21 from "./week50";
+import Post22 from "./yearInReview";
 export {
   Post1,
   Post2,
@@ -40,5 +41,6 @@ export {
   Post18,
   Post19,
   Post20,
-  Post21
+  Post21,
+  Post22
 };
