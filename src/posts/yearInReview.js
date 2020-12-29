@@ -151,9 +151,9 @@ class Post extends Component {
 
           <h4>What didn't go so well</h4>
           <p>
-            Was diagnosed with PCOS and injured my knee. Although I have
-            discovered the knee needs regular exercise for a stronger core and
-            hips and I need to get better shoes.
+            Was diagnosed with stress-related issues and injured my knee.
+            Although I have discovered the knee needs regular exercise for a
+            stronger core and hips and I need to get better shoes.
           </p>
           <h4>My hope for 2021</h4>
           <p>
