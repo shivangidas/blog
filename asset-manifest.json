@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/blog/static/css/main.f7661901.chunk.css",
-    "main.js": "/blog/static/js/main.743f02f2.chunk.js",
-    "main.js.map": "/blog/static/js/main.743f02f2.chunk.js.map",
+    "main.js": "/blog/static/js/main.87689c8c.chunk.js",
+    "main.js.map": "/blog/static/js/main.87689c8c.chunk.js.map",
     "runtime-main.js": "/blog/static/js/runtime-main.1dc37962.js",
     "runtime-main.js.map": "/blog/static/js/runtime-main.1dc37962.js.map",
     "static/css/2.ad109a12.chunk.css": "/blog/static/css/2.ad109a12.chunk.css",
-    "static/js/2.92b3706b.chunk.js": "/blog/static/js/2.92b3706b.chunk.js",
-    "static/js/2.92b3706b.chunk.js.map": "/blog/static/js/2.92b3706b.chunk.js.map",
+    "static/js/2.138eded3.chunk.js": "/blog/static/js/2.138eded3.chunk.js",
+    "static/js/2.138eded3.chunk.js.map": "/blog/static/js/2.138eded3.chunk.js.map",
     "index.html": "/blog/index.html",
-    "precache-manifest.5eda6baec7c7a623a5f2f714553e388a.js": "/blog/precache-manifest.5eda6baec7c7a623a5f2f714553e388a.js",
+    "precache-manifest.3b10c644a383e54f6d3fe3ddbaebe99e.js": "/blog/precache-manifest.3b10c644a383e54f6d3fe3ddbaebe99e.js",
     "service-worker.js": "/blog/service-worker.js",
     "static/css/2.ad109a12.chunk.css.map": "/blog/static/css/2.ad109a12.chunk.css.map",
     "static/css/main.f7661901.chunk.css.map": "/blog/static/css/main.f7661901.chunk.css.map",
-    "static/js/2.92b3706b.chunk.js.LICENSE.txt": "/blog/static/js/2.92b3706b.chunk.js.LICENSE.txt",
+    "static/js/2.138eded3.chunk.js.LICENSE.txt": "/blog/static/js/2.138eded3.chunk.js.LICENSE.txt",
     "static/media/ChristmasSteps.jpg": "/blog/static/media/ChristmasSteps.77e54c15.jpg",
     "static/media/OldTown.jpg": "/blog/static/media/OldTown.ccf81444.jpg",
     "static/media/Shap.PNG": "/blog/static/media/Shap.ebb7a91f.PNG",
@@ -29,13 +29,15 @@
     "static/media/newcastle.jpg": "/blog/static/media/newcastle.3a690ad8.jpg",
     "static/media/pdp-min.PNG": "/blog/static/media/pdp-min.69e1e992.PNG",
     "static/media/pic1.jpg": "/blog/static/media/pic1.45a9b963.jpg",
+    "static/media/snow1.jpg": "/blog/static/media/snow1.fee957f6.jpg",
+    "static/media/snow2.jpg": "/blog/static/media/snow2.1803891e.jpg",
     "static/media/index.css": "/blog/static/media/star_list.cbf3350d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1dc37962.js",
     "static/css/2.ad109a12.chunk.css",
-    "static/js/2.92b3706b.chunk.js",
+    "static/js/2.138eded3.chunk.js",
     "static/css/main.f7661901.chunk.css",
-    "static/js/main.743f02f2.chunk.js"
+    "static/js/main.87689c8c.chunk.js"
   ]
 }
