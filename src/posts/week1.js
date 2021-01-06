@@ -12,11 +12,12 @@ class Post extends Component {
 
         <article>
           <p>
-            Happy new year! It's a new decade and a special one for me
-            personally. Things worldwide are shitty but wouldn't waste my breath
-            on that; I have zero influence over world politics and it is idiotic
-            to debate about it right now. This was also my last week of{" "}
-            <i>vacation</i>. I'm starting work tomorrow!
+            Happy new year! It's a new decade (conflicted if 2020 was a new
+            decade) and a special one for me personally. Things worldwide are
+            shitty but wouldn't waste my breath on that; I have zero influence
+            over world politics and it is idiotic to debate about it right now.
+            This was also my last week of <i>vacation</i>. I'm starting work
+            tomorrow!
           </p>
           <hr />
           <h3>What made me think</h3>
