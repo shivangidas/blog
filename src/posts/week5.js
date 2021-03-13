@@ -26,7 +26,6 @@ class Post extends Component {
           <hr />
           <h3>Podcast</h3>
           <p>
-            {" "}
             Interview with{" "}
             <strong>
               <a
