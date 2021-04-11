@@ -39,8 +39,10 @@ class Post extends Component {
           </p>
           <h3>Quotes</h3>
           <p>
-            The world feels a little brighter when we create something that
-            wasn't there before.
+            <strong>
+              The world feels a little brighter when we create something that
+              wasn't there before.
+            </strong>
           </p>
           <h3>What am I doing</h3>
           <p>

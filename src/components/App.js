@@ -26,7 +26,8 @@ import {
   Post23,
   Post24,
   Post25,
-  Post26
+  Post26,
+  Post27
 } from "../posts";
 import Links from "../Links.js";
 import Header from "./HeaderHooks";
@@ -67,6 +68,7 @@ class App extends Component {
               <Route path="/week2" component={Post24} />
               <Route path="/week5" component={Post25} />
               <Route path="/week10" component={Post26} />
+              <Route path="/week14" component={Post27} />
             </main>
             <div className="push"></div>
           </div>

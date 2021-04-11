@@ -24,6 +24,7 @@ import Post23 from "./week1";
 import Post24 from "./week2";
 import Post25 from "./week5";
 import Post26 from "./week10";
+import Post27 from "./week14";
 export {
   Post1,
   Post2,
@@ -50,5 +51,6 @@ export {
   Post23,
   Post24,
   Post25,
-  Post26
+  Post26,
+  Post27
 };
