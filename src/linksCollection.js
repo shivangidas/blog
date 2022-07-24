@@ -1,5 +1,12 @@
 export default [
   {
+    name: "Halfway through 2022",
+    link: "/HalfwayThrough2022",
+    date: "July 22, 2022",
+    description: "Life review | Weekly update",
+    icon: "🌤"
+  },
+  {
     name: "Week 31",
     link: "/week31",
     date: "August 5, 2021",
