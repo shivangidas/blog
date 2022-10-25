@@ -89,6 +89,7 @@ class Post extends Component {
           </ul>
           <hr />
           <h3>Things I love to hate</h3>
+          <p>Edit [25-10-2022]: I just re-routed this, client-side routing is a lot easier now.</p>
           <p>
             Will someone please tell me how to deal with client-side routing?!
             It has been annoying me for weeks now! I ended up using{" "}
