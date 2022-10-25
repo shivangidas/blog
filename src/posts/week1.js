@@ -110,6 +110,7 @@ class Post extends Component {
           <h3>What's happening</h3>
           <p>
             I experienced snow for the first time in my adult memory!
+             </p>
             <Image
               src={snow1}
               alt="Snow on armstrong bridge"
@@ -124,7 +125,7 @@ class Post extends Component {
               width="100%"
               height="auto"
             />
-          </p>
+         
           <p>
             There’s a tree in Heaton that grows trainers. The story says people
             fling worn trainers in celebration of some major event in their

@@ -40,6 +40,7 @@ class Post extends Component {
           <p>
             <Code codeString={code} language="language-python" />
             It will plot a graph that shows the relation between prediction and changing values of one feature.
+            </p>
             <Image
               src={pdp_plot}
               alt="PDP plot showing how the goal scored column values affect prediction"
@@ -47,7 +48,7 @@ class Post extends Component {
               width="100%"
               height="auto"
             />
-          </p>
+          
           <hr />
           <h3>What's next?</h3>
           <p>

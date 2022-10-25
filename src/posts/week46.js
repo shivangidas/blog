@@ -117,6 +117,7 @@ class Post extends Component {
           <h3>Activity</h3>
           <p>
             The weather was pleasant this week and I got some great pictures.
+             </p>
             <Image
               src={cemetery}
               alt="Path through cemetery"
@@ -131,7 +132,7 @@ class Post extends Component {
               width="100%"
               height="auto"
             />
-          </p>
+         
           <p>That's all for this week!</p>
         </article>
         <PostFooter />

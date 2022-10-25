@@ -41,6 +41,7 @@ class Post extends Component {
           <h3>Why does this blog exist?</h3>
           <p>
             I decided to start this blog because of the following reasons:
+            </p>
             <ul>
               <li>
                 Whenever I am asked the same questions by different people about
@@ -50,11 +51,12 @@ class Post extends Component {
               <li>It also helps to remember complex topics.</li>
               <li>Most importantly because I can and it is fun!</li>
             </ul>
-          </p>
+          
           <hr />
           <h3>Why did I move from blogger?</h3>
           <p>
             Because I hate these
+            </p>
             <Image
               src={blogger_issue}
               alt="alignment issues in blogger"
@@ -62,7 +64,7 @@ class Post extends Component {
               width="100%"
               height="auto"
             />
-          </p>
+          
           <hr />
           <h3>Verdict</h3>
           <p>

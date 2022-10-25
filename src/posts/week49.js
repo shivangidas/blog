@@ -66,7 +66,7 @@ class Post extends Component {
           <p>Eminem for some reason. Helps me write/code.</p>
           <h3>What am I doing</h3>
           <p>
-            Exploring Newcastle upon Tyne.
+            Exploring Newcastle upon Tyne.  </p>
             <Image
               src={newcastle}
               alt="Newcastle, Tyne Bridge in background"
@@ -81,7 +81,7 @@ class Post extends Component {
               width="100%"
               height="auto"
             />
-          </p>
+         
           <p>That's all for this week!</p>
         </article>
         <PostFooter />

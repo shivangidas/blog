@@ -29,6 +29,7 @@ class Post extends Component {
             are hilly. Hilly is an understatement, it's more like climbing a
             mountain (no more gym required). There are gulls everywhere and
             jackdows (crow-like bird). I am often visited by this Herring gull.
+            </p>
             <Image
               src={gull}
               alt="Herring gull sitting on a window ledge"
@@ -41,9 +42,9 @@ class Post extends Component {
             because let's face it, I'm 28 and I hated clubbing even in my early
             twenties. Been eating a lot, most of the food cooked on my own (so
             proud). 
-          </p>
+          
           <p>
-            Explored the city a little
+            Explored the city a little </p>
             <Image
               src={cabot}
               alt="View of Bristol from the Cabot Tower"
@@ -65,7 +66,7 @@ class Post extends Component {
               width="100%"
               height="auto"
             />
-          </p>
+          
           <p>The place already feels like home.</p>
         </article>
         <PostFooter />

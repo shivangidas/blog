@@ -96,7 +96,7 @@ class Post extends Component {
             Things have always been hard but especially this year in isolation
             and away from my usual people. I am thankful to just have survived.
             I kept a gratitude journal, listing things am thankful for each day,
-            and that has helped a lot.{" "}
+            and that has helped a lot.{" "} </p>
             <Image
               src={journal}
               alt="Screenshot of my gratitude journal"
@@ -104,7 +104,7 @@ class Post extends Component {
               width="100%"
               height="auto"
             />
-          </p>
+          
           <h3>Finances</h3>
           <p>
             I'm kinda proud of how well I managed my budget being a student

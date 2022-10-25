@@ -3,7 +3,7 @@ import Bio from "./components/Bio";
 import PostLink from "./components/PostLink";
 import linksCollection from "./linksCollection";
 
-function Links() {
+const Links = () => {
   const [search, setSearch] = useState("");
   const [filteredLinks, setFilteredLinks] = useState([]);
   useEffect(() => {

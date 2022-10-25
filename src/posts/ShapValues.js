@@ -81,6 +81,7 @@ class Post extends Component {
           <p>
             <Code codeString={code} language="language-python" />
             Visualization
+            </p>
             <Image
               src={shap}
               alt="Shapely values showing which features affect the prediction the most."
@@ -88,7 +89,7 @@ class Post extends Component {
               width="100%"
               height="auto"
             />
-          </p>
+          
           <hr />
           <h3>What's next?</h3>
           <p>

@@ -85,7 +85,7 @@ class Post extends Component {
           <p>
             There is a lockdown in England and I have committed to moving more
             ^-^. Currently I am posting pictures of the highlight of the day on
-            my Instagram stories. Here's a sample
+            my Instagram stories. Here's a sample </p>
             <Image
               src={pic1}
               alt="Library book in front of a university sign"
@@ -93,7 +93,7 @@ class Post extends Component {
               width="100%"
               height="auto"
             />
-          </p>
+          
           <p>That's all for this week!</p>
         </article>
         <PostFooter />
