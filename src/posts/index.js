@@ -27,6 +27,7 @@ import Post26 from "./week10";
 import Post27 from "./week14";
 import Post28 from "./week31";
 import Post29 from "./HalfwayThrough2022";
+import Post30 from "./Negotiation";
 export {
   Post1,
   Post2,
@@ -56,5 +57,6 @@ export {
   Post26,
   Post27,
   Post28,
-  Post29
+  Post29,
+  Post30
 };

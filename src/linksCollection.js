@@ -1,9 +1,16 @@
 export default [
   {
+    name: "Negotiation for introverts",
+    link: "/Negotiation",
+    date: "July 22, 2022",
+    description: "Money | Soft skills",
+    icon: "💷"
+  },
+  {
     name: "Halfway through 2022",
     link: "/HalfwayThrough2022",
     date: "July 22, 2022",
-    description: "Life review | Weekly update",
+    description: "Life review | Yearly update",
     icon: "🌤"
   },
   {
