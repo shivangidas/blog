@@ -8,7 +8,7 @@ class Post extends Component {
     return (
       <>
         <h1>Negotiation for introverts</h1>
-        <small>18 March, 2023</small>
+        <small>March 18, 2023</small>
 
         <article>
           <p>
@@ -74,7 +74,7 @@ class Post extends Component {
             <a href="https://www.thefinishingschool.co/"
               target="_blank"
               rel="noopener noreferrer"> 'Get your money honey'</a>.
-        Alison works with women, coaching them to get paid more.
+      Alison works with women, coaching them to get paid more.
           </p>
           <Image
             src={scripts}

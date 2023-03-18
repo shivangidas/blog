@@ -2,7 +2,7 @@ export default [
   {
     name: "Negotiation for introverts",
     link: "/Negotiation",
-    date: "July 22, 2022",
+    date: "March 18, 2023",
     description: "Money | Soft skills",
     icon: "💷"
   },
