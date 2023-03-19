@@ -49,7 +49,7 @@ class Post extends Component {
             previous blog{" "}
             <strong>
               <a
-                href="https://shivangidas.github.io/blog/#/Outliers"
+                href="https://shivangidas.github.io/blog/Outliers"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -97,14 +97,14 @@ class Post extends Component {
             and away from my usual people. I am thankful to just have survived.
             I kept a gratitude journal, listing things am thankful for each day,
             and that has helped a lot.{" "} </p>
-            <Image
-              src={journal}
-              alt="Screenshot of my gratitude journal"
-              caption="Snippet from my gratitude journal"
-              width="100%"
-              height="auto"
-            />
-          
+          <Image
+            src={journal}
+            alt="Screenshot of my gratitude journal"
+            caption="Snippet from my gratitude journal"
+            width="100%"
+            height="auto"
+          />
+
           <h3>Finances</h3>
           <p>
             I'm kinda proud of how well I managed my budget being a student

@@ -7,6 +7,13 @@ export default [
     icon: "💷"
   },
   {
+    name: "Why negotiate",
+    link: "/WhyNegotiate",
+    date: "March 19, 2023",
+    description: "Money | Soft skills",
+    icon: "💷"
+  },
+  {
     name: "Halfway through 2022",
     link: "/HalfwayThrough2022",
     date: "July 22, 2022",

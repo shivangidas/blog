@@ -74,7 +74,7 @@ class Post extends Component {
             <a href="https://www.thefinishingschool.co/"
               target="_blank"
               rel="noopener noreferrer"> 'Get your money honey'</a>.
-      Alison works with women, coaching them to get paid more.
+    Alison works with women, coaching them to get paid more.
           </p>
           <Image
             src={scripts}

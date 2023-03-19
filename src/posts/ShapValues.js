@@ -16,7 +16,7 @@ class Post extends Component {
           <p>
             We have seen ways to find most important feature (
             <a
-              href="https://shivangidas.github.io/blog/#/PermutationImportance"
+              href="https://shivangidas.github.io/blog/PermutationImportance"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -24,7 +24,7 @@ class Post extends Component {
             </a>
             ) and how those features affect predictions (
             <a
-              href="https://shivangidas.github.io/blog/#/PartialPlots"
+              href="https://shivangidas.github.io/blog/PartialPlots"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -82,14 +82,14 @@ class Post extends Component {
             <Code codeString={code} language="language-python" />
             Visualization
             </p>
-            <Image
-              src={shap}
-              alt="Shapely values showing which features affect the prediction the most."
-              caption="Shapely values for one prediction."
-              width="100%"
-              height="auto"
-            />
-          
+          <Image
+            src={shap}
+            alt="Shapely values showing which features affect the prediction the most."
+            caption="Shapely values for one prediction."
+            width="100%"
+            height="auto"
+          />
+
           <hr />
           <h3>What's next?</h3>
           <p>
