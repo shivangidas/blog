@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35fc178be55000f283dcb8c8e543351b",
+    "revision": "74084f726536bffdbc2e6ab2d91375e9",
     "url": "/blog/index.html"
   },
   {
-    "revision": "ee2e55c2df32ebc8dc4d",
+    "revision": "16b922432adf78bc6e1a",
     "url": "/blog/static/css/2.e9acb8e1.chunk.css"
   },
   {
-    "revision": "63d46b057ed534bf7aac",
+    "revision": "bb579ede2a0ee30bc8d6",
     "url": "/blog/static/css/main.6f1ce733.chunk.css"
   },
   {
-    "revision": "ee2e55c2df32ebc8dc4d",
-    "url": "/blog/static/js/2.5271eade.chunk.js"
+    "revision": "16b922432adf78bc6e1a",
+    "url": "/blog/static/js/2.bf941a4f.chunk.js"
   },
   {
     "revision": "ee26abb6a375ae10bb090d583daabaf8",
-    "url": "/blog/static/js/2.5271eade.chunk.js.LICENSE.txt"
+    "url": "/blog/static/js/2.bf941a4f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63d46b057ed534bf7aac",
-    "url": "/blog/static/js/main.d342f9b0.chunk.js"
+    "revision": "bb579ede2a0ee30bc8d6",
+    "url": "/blog/static/js/main.82a250b6.chunk.js"
   },
   {
     "revision": "2b5756a3bd2476070fe9",
@@ -60,6 +60,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blog/static/media/cliftonbridge.7372333e.jpg"
   },
   {
+    "revision": "13c34faba4135f0c7fdf58ee9b36e086",
+    "url": "/blog/static/media/genderParity.13c34fab.png"
+  },
+  {
+    "revision": "fdb8737fbe6cd06b389b2782ca12cb94",
+    "url": "/blog/static/media/gpg.fdb8737f.png"
+  },
+  {
     "revision": "e357505dd64a310c2e952c098d28f54a",
     "url": "/blog/static/media/gull.e357505d.jpg"
   },
@@ -88,6 +96,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blog/static/media/journal.568088f4.jpg"
   },
   {
+    "revision": "59e872ddca27a22c2c79a8102d37e7db",
+    "url": "/blog/static/media/moneytaboo.59e872dd.png"
+  },
+  {
     "revision": "3a690ad86fe67f24110fed703a19d873",
     "url": "/blog/static/media/newcastle.3a690ad8.jpg"
   },
@@ -102,6 +114,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "45a9b963666438037c3cbe2f1aa38c23",
     "url": "/blog/static/media/pic1.45a9b963.jpg"
+  },
+  {
+    "revision": "76566fd63f89fde62664e354a5f39cc9",
+    "url": "/blog/static/media/racialPayGap.76566fd6.png"
+  },
+  {
+    "revision": "de54eac378cf6deaec0901a7d19ba0bd",
+    "url": "/blog/static/media/ratioOfWomenInhighPayingJobs.de54eac3.png"
   },
   {
     "revision": "a722ce26fe4bc863d4ebdf6c4bd89e85",
