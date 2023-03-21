@@ -78,11 +78,12 @@ class Post extends Component {
           />
           <p>I saw this on a <a href="https://www.forbes.com/sites/brettwhysel/2020/02/18/the-money-taboo-what-can-we-do-about-it-talk/?sh=149ad4ed64af" target="_blank"
             rel="noopener noreferrer">Forbes article about money taboo</a>. Not talking about money leads to financial ignorance that can lead to financial mistakes, which we naturally avoid talking about, strengthening the taboo.</p>
-          <p>These are some global reasons why we should always negotiate because things are not yet fair and not talking about issues doesn't make them go away. There’s also inflation which you would hope companies would automatically adjust for and if they don't please bring it up.</p>
+
           <h3>Unlearn that money corrupts</h3>
           <p>
-            I come from a middle-class Indian family. We were taught in order to be happy you need to be satisfied with what you have. In order to save for the future, live below your means. In the current media, it’s all about cutting down on things and not make more money and accumulate assets. It has taken a lot of work to unlearn that. I have been actively learning to invest and how to live off assests. When adults don't know how to make money, they teach their kids that money should not be the goal and point out rich people who are screwing up earth for profits. I believe money in the hands of people like you and me is a means to do good as can been seen in the next section.
+            I come from a middle-class Indian family. We were taught in order to be happy you need to be satisfied with what you have. In order to save for the future, live below your means. In the current media, it’s all about cutting down on things and not make more money and accumulate assets. It has taken a lot of work to unlearn that. I have been actively learning to invest and how to live off assests. When adults don't know how to make money, they teach their kids that money should not be the goal and point out rich people who are screwing up earth for profits. I believe money in the hands of people like you and me is a means to do good.
           </p>
+          <p>These are some global reasons why we should always negotiate because things are not yet fair and not talking about issues doesn't make them go away. There’s also inflation which you would hope companies would automatically adjust for and if they don't please bring it up.</p>
           <h3>Find you 'why', aligned with your values</h3>
           <p>Time for a quick exercise. Take a paper and pen or wherever you can, make a list of the top 10 things important to you and prioritise them. Totally okay if you don’t want to write, just mentally come up with a few. Of course values vary depending on your personal experiences and beliefs. Below are some of the most common ones</p>
           <Image
