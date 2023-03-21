@@ -59,7 +59,7 @@ class Post extends Component {
               </a>{" "}
               -
               <a
-                href="https://christophm.github.io/interpretable-ml-book/shapley.html"
+                href="https://christophm.github.io/blog/interpretable-ml-book/shapley.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >

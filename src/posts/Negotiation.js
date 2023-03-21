@@ -12,14 +12,12 @@ class Post extends Component {
 
         <article>
           <p>
-            Discussing an offer is a difficult conversation to have and I talked about it at the TechLeadJS conference recently.  Here is the last part of the talk in written form.
+            Discussing an offer is a difficult conversation to have and I talked about it at the TechLeadJS conference recently.  This is the second part of the talk in written form.
 
-            Find the other parts here:
-            </p>
-          <ul>
-            <li>Part 1: Why negotiate (coming soon)</li>
-            <li>Part 2: Find your why (coming soon)</li>
-          </ul>
+            Find the first part here:<a href="https://shivangidas.github.io/blog/WhyNegotiate"
+              target="_blank"
+              rel="noopener noreferrer"> Why negotiate </a>
+          </p>
 
           <p>
             <strong>
@@ -74,7 +72,7 @@ class Post extends Component {
             <a href="https://www.thefinishingschool.co/"
               target="_blank"
               rel="noopener noreferrer"> 'Get your money honey'</a>.
-    Alison works with women, coaching them to get paid more.
+Alison works with women, coaching them to get paid more.
           </p>
           <Image
             src={scripts}

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import PostFooter from "../components/PostFooter";
 import Image from "../components/image";
-import { ratioMap, genderParity, gpg, racialPayGap, moneytaboo } from "../images";
+import { ratioMap, genderParity, gpg, racialPayGap, moneytaboo, values } from "../images";
 
 class Post extends Component {
   render() {
@@ -12,18 +12,14 @@ class Post extends Component {
 
         <article>
           <p>
-            Discussing an offer is a difficult conversation to have and I talked about it at the TechLeadJS conference recently.  Here is the first part of the talk in written form.
+            Discussing an offer is a difficult conversation to have and I talked about it at the TechLeadJS conference recently.  This is the first part of the talk in written form.
 
-            Find the other parts here:
-            </p>
-          <ul>
-            <li>Part 2: Find your why (coming soon)</li>
-            <li><a href="https://shivangidas.github.io/Negotiation"
+            Find the other part here:{" "}
+            <a href="https://shivangidas.github.io/blog/Negotiation"
               target="_blank"
               rel="noopener noreferrer">
-              Part 3: Negotiation for introverts</a></li>
-          </ul>
-
+              Negotiation for introverts</a>
+          </p>
           <p>
             <strong>
               Disclaimer: I am not an expert on money matters. Negotiation and personal finance are things I feel more people should be aware of and talk about.
@@ -86,7 +82,21 @@ class Post extends Component {
           />
           <p>I saw this on a <a href="https://www.forbes.com/sites/brettwhysel/2020/02/18/the-money-taboo-what-can-we-do-about-it-talk/?sh=149ad4ed64af" target="_blank"
             rel="noopener noreferrer">Forbes article about money taboo</a>. Not talking about money leads to financial ignorance that can lead to financial mistakes, which we naturally avoid talking about, strengthening the taboo.</p>
-          <p>These are some global reasons why we should always negotiate because things are not yet fair and not talking about issues doesn't make them go away. There’s also inflation which you would hope companies would automatically adjust for. In the next section we will ponder about our goals and priorities.</p>
+          <p>These are some global reasons why we should always negotiate because things are not yet fair and not talking about issues doesn't make them go away. There’s also inflation which you would hope companies would automatically adjust for and if they don't please bring it up.</p>
+          <h3>Find you 'why', aligned with your values</h3>
+          <p>Time for a quick exercise. Take a paper and pen or wherever you can, make a list of the top 10 things important to you and prioritise them. Totally okay if you don’t want to write, just mentally come up with a few. Of course values vary depending on your personal experiences and beliefs. Below are some of the most common ones</p>
+          <Image
+            src={values}
+            alt="List of common goals and values"
+            caption="List of common goals and values"
+            width="100%"
+            height="auto"
+          />
+          <p>Now when looking at these values and priorities, it’s easy to see none of them are evil or selfish. Most of them require money and time. When you discuss a promotion or an offer, you need to keep in mind you’re not just asking the market value of the job, you’re in fact making sure you can fulfil your priorities. It's much easier to discuss money when you have goals like buying a house attached to it. Having your values sorted would give you a good idea of where to focus in terms of other perks too.</p>
+          <p>Next up find a few tips on <a href="https://shivangidas.github.io/blog/Negotiation"
+            target="_blank"
+            rel="noopener noreferrer">
+            Negotiation for introverts.</a></p>
         </article>
         <PostFooter />
       </>

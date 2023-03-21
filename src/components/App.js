@@ -39,7 +39,7 @@ import Footer from "./Footer.js";
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename="/blog">
         <>
           <div className="wrapper">
             <main>
