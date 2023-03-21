@@ -18,7 +18,6 @@ class Post extends Component {
               target="_blank"
               rel="noopener noreferrer"> Why negotiate </a>
           </p>
-
           <p>
             <strong>
               Disclaimer: I am not an expert on money matters. Negotiation and personal finance are things I feel more people should be aware of and talk about.
@@ -97,6 +96,26 @@ Alison works with women, coaching them to get paid more.
             height="auto"
           />
           <p>A lot of this depends on company policy and sometimes you may get a 'no we can’t do that'. However it’s always worth asking. Sometimes things that mean a lot to you may be something the company hasn’t considered yet and is willing to provide. If nothing this at least starts the conversations around these perks so companies know what employees value today, for example the 4-day work week trials happening in the UK. Do it for everyone after you.</p>
+
+          <h3>Reading Recommendations</h3>
+          <ul>
+            <li>
+              <a href="https://www.goodreads.com/en/book/show/26156469"
+                target="_blank"
+                rel="noopener noreferrer">Never split the difference </a> by Chris Voss. (I need to read it again. :)
+            </li>
+            <li>
+              <a href="https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/"
+                target="_blank"
+                rel="noopener noreferrer">My ten rules for negotiating a job offer</a> by Haseeb Qureshi. This is gold.
+            </li>
+            <li><a href="https://www.goodreads.com/book/show/61324281-girls-that-invest"
+              target="_blank"
+              rel="noopener noreferrer">Girls that Invest</a> by Simran Kaur. Love it for fuss-free knowledge of the share market. I'm also doing their masterclass currently.</li>
+            <li><a href="https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad"
+              target="_blank"
+              rel="noopener noreferrer">Rich Dad, Poor Dad</a> by Robert T. Kiyosaki. A good one on financial literacy.</li>
+          </ul>
         </article>
         <PostFooter />
       </>
