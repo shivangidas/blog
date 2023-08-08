@@ -1,5 +1,12 @@
 export default [
   {
+    name: "Financial jargon - Balance Sheet",
+    link: "/BalanceSheet",
+    date: "July 24, 2023",
+    description: "Money | Finance | Stocks",
+    icon: "💸"
+  },
+  {
     name: "Negotiation for introverts",
     link: "/Negotiation",
     date: "March 18, 2023",

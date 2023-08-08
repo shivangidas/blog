@@ -29,6 +29,7 @@ import Post28 from "./week31";
 import Post29 from "./HalfwayThrough2022";
 import Post30 from "./Negotiation";
 import Post31 from "./PayGap";
+import Post32 from "./BalanceSheet";
 export {
   Post1,
   Post2,
@@ -60,5 +61,6 @@ export {
   Post28,
   Post29,
   Post30,
-  Post31
+  Post31,
+  Post32
 };
