@@ -11,7 +11,7 @@ function Layout() {
       >
         Shivangi Das
       </a>
-      . <br />I enjoy coding and love reading.
+      . <br />I enjoy coding, love reading and am passionate about financial education.
     </p>
   );
 }
