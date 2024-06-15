@@ -12,8 +12,7 @@ class Post extends Component {
         <article>
           <p>
             I started learning React out of curiosity seeing the amazing things
-            people in my Twitter feed were building with it. A typical case of
-            what millennials call FOMO. (I wonder if I need a hashtag there.)
+            people in my Twitter feed were building with it.
           </p>
           <hr />
           <h3>The fun stuff</h3>
