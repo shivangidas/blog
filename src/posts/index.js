@@ -30,6 +30,7 @@ import Post29 from "./HalfwayThrough2022";
 import Post30 from "./Negotiation";
 import Post31 from "./PayGap";
 import Post32 from "./BalanceSheet";
+import Post33 from "./Angular18";
 export {
   Post1,
   Post2,
@@ -62,5 +63,6 @@ export {
   Post29,
   Post30,
   Post31,
-  Post32
+  Post32,
+  Post33
 };

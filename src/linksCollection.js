@@ -1,5 +1,12 @@
 export default [
   {
+    name: "Angular 18",
+    link: "/Angular18",
+    date: "July 11, 2024",
+    description: "Angular | Code Snippet",
+    icon: "⭐"
+  },
+  {
     name: "Financial jargon - Balance Sheet",
     link: "/BalanceSheet",
     date: "July 24, 2023",
@@ -27,48 +34,48 @@ export default [
     description: "Life review | Yearly update",
     icon: "🌤"
   },
-  {
-    name: "Week 31",
-    link: "/week31",
-    date: "August 5, 2021",
-    description: "Life review | Weekly update",
-    icon: "🎉"
-  },
-  {
-    name: "Week 14",
-    link: "/week14",
-    date: "April 11, 2021",
-    description: "Life review | Weekly update",
-    icon: "🌨"
-  },
-  {
-    name: "Week 10",
-    link: "/week10",
-    date: "March 10, 2021",
-    description: "Life review | Weekly update",
-    icon: "🌤"
-  },
-  {
-    name: "Week 5",
-    link: "/week5",
-    date: "February 5, 2021",
-    description: "Life review | Weekly update",
-    icon: "❄️"
-  },
-  {
-    name: "Week 2",
-    link: "/week2",
-    date: "January 9, 2021",
-    description: "Life review | Weekly update",
-    icon: "❄️"
-  },
-  {
-    name: "Week 1",
-    link: "/week1",
-    date: "January 3, 2021",
-    description: "Life review | Weekly update",
-    icon: "❄️"
-  },
+  // {
+  //   name: "Week 31",
+  //   link: "/week31",
+  //   date: "August 5, 2021",
+  //   description: "Life review | Weekly update",
+  //   icon: "🎉"
+  // },
+  // {
+  //   name: "Week 14",
+  //   link: "/week14",
+  //   date: "April 11, 2021",
+  //   description: "Life review | Weekly update",
+  //   icon: "🌨"
+  // },
+  // {
+  //   name: "Week 10",
+  //   link: "/week10",
+  //   date: "March 10, 2021",
+  //   description: "Life review | Weekly update",
+  //   icon: "🌤"
+  // },
+  // {
+  //   name: "Week 5",
+  //   link: "/week5",
+  //   date: "February 5, 2021",
+  //   description: "Life review | Weekly update",
+  //   icon: "❄️"
+  // },
+  // {
+  //   name: "Week 2",
+  //   link: "/week2",
+  //   date: "January 9, 2021",
+  //   description: "Life review | Weekly update",
+  //   icon: "❄️"
+  // },
+  // {
+  //   name: "Week 1",
+  //   link: "/week1",
+  //   date: "January 3, 2021",
+  //   description: "Life review | Weekly update",
+  //   icon: "❄️"
+  // },
   {
     name: "Year in review",
     link: "/week52",
@@ -76,20 +83,20 @@ export default [
     description: "Life review | Yearly update",
     icon: "🌈"
   },
-  {
-    name: "Week 50",
-    link: "/week50",
-    date: "December 12, 2020",
-    description: "Life review | Weekly update",
-    icon: "🌧"
-  },
-  {
-    name: "Week 49",
-    link: "/week49",
-    date: "December 5, 2020",
-    description: "Life review | Weekly update",
-    icon: "🦄"
-  },
+  // {
+  //   name: "Week 50",
+  //   link: "/week50",
+  //   date: "December 12, 2020",
+  //   description: "Life review | Weekly update",
+  //   icon: "🌧"
+  // },
+  // {
+  //   name: "Week 49",
+  //   link: "/week49",
+  //   date: "December 5, 2020",
+  //   description: "Life review | Weekly update",
+  //   icon: "🦄"
+  // },
   {
     name: "Insights from Outliers",
     link: "/Outliers",
@@ -97,41 +104,41 @@ export default [
     description: "Life review",
     icon: "🎉"
   },
-  {
-    name: "Week 47",
-    link: "/week47",
-    date: "November 21, 2020",
-    description: "Life review | Weekly update",
-    icon: "🦄"
-  },
-  {
-    name: "Week 46",
-    link: "/week46",
-    date: "November 13, 2020",
-    description: "Life review | Weekly update",
-    icon: "🌈"
-  },
-  {
-    name: "Week 45",
-    link: "/week45",
-    date: "November 6, 2020",
-    description: "Life review | Weekly update",
-    icon: "🦄"
-  },
-  {
-    name: "The Travelling Cat Chronicles",
-    link: "/TravellingCat",
-    date: "October 27, 2020",
-    description: "Book review",
-    icon: "📚"
-  },
-  {
-    name: "The Overstory",
-    link: "/Overstory",
-    date: "September 10, 2020",
-    description: "Book review",
-    icon: "📚"
-  },
+  // {
+  //   name: "Week 47",
+  //   link: "/week47",
+  //   date: "November 21, 2020",
+  //   description: "Life review | Weekly update",
+  //   icon: "🦄"
+  // },
+  // {
+  //   name: "Week 46",
+  //   link: "/week46",
+  //   date: "November 13, 2020",
+  //   description: "Life review | Weekly update",
+  //   icon: "🌈"
+  // },
+  // {
+  //   name: "Week 45",
+  //   link: "/week45",
+  //   date: "November 6, 2020",
+  //   description: "Life review | Weekly update",
+  //   icon: "🦄"
+  // },
+  // {
+  //   name: "The Travelling Cat Chronicles",
+  //   link: "/TravellingCat",
+  //   date: "October 27, 2020",
+  //   description: "Book review",
+  //   icon: "📚"
+  // },
+  // {
+  //   name: "The Overstory",
+  //   link: "/Overstory",
+  //   date: "September 10, 2020",
+  //   description: "Book review",
+  //   icon: "📚"
+  // },
   {
     name: "Hooks",
     link: "/Hooked",
@@ -216,11 +223,11 @@ export default [
     description: "React",
     icon: "🎉"
   },
-  {
-    name: "Good Omens",
-    link: "/GoodOmens",
-    date: "May 12, 2016",
-    description: "Book review",
-    icon: "📚"
-  }
+  // {
+  //   name: "Good Omens",
+  //   link: "/GoodOmens",
+  //   date: "May 12, 2016",
+  //   description: "Book review",
+  //   icon: "📚"
+  // }
 ];

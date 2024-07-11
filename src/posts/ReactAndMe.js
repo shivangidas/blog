@@ -109,8 +109,7 @@ class Post extends Component {
           <h3>Verdict</h3>
           <p>
             I love how well-thought out the whole eco-system is. You need it,
-            they got it. However, I remain skeptical about the fact that it is
-            owned by Facebook.
+            they got it.
           </p>
         </article>
         <PostFooter />
