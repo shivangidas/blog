@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import PostFooter from "../components/PostFooter";
 import Code from "../components/code";
-// import Image from "../components/image";
 class Post extends Component {
     render() {
         let signalCode = 'const count: WritableSignal<number> = signal(0);\nconst doubleCount: Signal<number> = computed(() => count() * 2);';

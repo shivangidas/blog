@@ -33,7 +33,8 @@ import {
   Post30,
   Post31,
   Post32,
-  Post33
+  Post33,
+  Post34
 } from "../posts";
 import Links from "../Links.js";
 import Header from "./HeaderHooks";
@@ -83,6 +84,7 @@ class App extends Component {
                 <Route path="/WhyNegotiate" element={<Post31 />} />
                 <Route path="/BalanceSheet" element={<Post32 />} />
                 <Route path="/Angular18" element={<Post33 />} />
+                <Route path="/Revive" element={<Post34 />} />
               </Routes>
             </main>
             <div className="push"></div>

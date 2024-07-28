@@ -31,6 +31,7 @@ import Post30 from "./Negotiation";
 import Post31 from "./PayGap";
 import Post32 from "./BalanceSheet";
 import Post33 from "./Angular18";
+import Post34 from "./ReviveOldResume";
 export {
   Post1,
   Post2,
@@ -64,5 +65,6 @@ export {
   Post30,
   Post31,
   Post32,
-  Post33
+  Post33,
+  Post34
 };

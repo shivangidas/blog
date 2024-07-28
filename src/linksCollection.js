@@ -1,5 +1,12 @@
 export default [
   {
+    name: "Reviving my old website",
+    link: "/Revive",
+    date: "July 28, 2024",
+    description: "Web Dev | CV | Nostalgia",
+    icon: "⭐"
+  },
+  {
     name: "Angular 18",
     link: "/Angular18",
     date: "July 11, 2024",
@@ -217,7 +224,7 @@ export default [
     icon: "🎁"
   },
   {
-    name: "My relationship with React.",
+    name: "Learning React.",
     link: "/ReactAndMe",
     date: "March 31, 2019",
     description: "React",
