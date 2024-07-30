@@ -112,9 +112,6 @@ Alison works with women, coaching them to get paid more.
             <li><a href="https://www.goodreads.com/book/show/61324281-girls-that-invest"
               target="_blank"
               rel="noopener noreferrer">Girls that Invest</a> by Simran Kaur. Love it for fuss-free knowledge of the share market. I'm also doing their masterclass currently.</li>
-            <li><a href="https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad"
-              target="_blank"
-              rel="noopener noreferrer">Rich Dad, Poor Dad</a> by Robert T. Kiyosaki. A good one on financial literacy.</li>
           </ul>
         </article>
         <PostFooter />
