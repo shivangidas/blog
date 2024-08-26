@@ -1,5 +1,12 @@
 export default [
   {
+    name: "Go Gotchas",
+    link: "/GoLang",
+    date: "August 26, 2024",
+    description: "GoLang | Back End | Code Snippet",
+    icon: "🦄 "
+  },
+  {
     name: "Reviving my old website",
     link: "/Revive",
     date: "July 28, 2024",
@@ -18,21 +25,21 @@ export default [
     link: "/BalanceSheet",
     date: "July 24, 2023",
     description: "Money | Finance | Stocks",
-    icon: "💸"
+    icon: "💸 "
   },
   {
     name: "Negotiation for introverts",
     link: "/Negotiation",
     date: "March 18, 2023",
     description: "Money | Soft skills",
-    icon: "💷"
+    icon: "💷 "
   },
   {
     name: "Why negotiate",
     link: "/WhyNegotiate",
     date: "March 19, 2023",
     description: "Money | Soft skills",
-    icon: "💷"
+    icon: "💷 "
   },
   {
     name: "Halfway through 2022",

@@ -5,16 +5,7 @@ class Footer extends Component {
     return (
       <footer>
         <center>
-          <div>
-            <a
-              href="https://tinyletter.com/shivangi"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Join the newsletter{" "}
-              <i className="icon-mail4" aria-hidden="true" />
-            </a>
-          </div>
+          
           <div id="copyright">
             <span>Shivangi Das</span>&nbsp; &copy; &nbsp;
             <span>2019-24</span>
