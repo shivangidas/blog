@@ -10,16 +10,17 @@ class Post extends Component {
 
                 <article>
                     <p>
-                        Learning Go/GoLang the hard way. When you have ADHD and you're trying to remember things for longer than your working memory allows - you make notes.
+                        Learning Go/GoLang the hard way. When you have ADHD and you're trying to remember things for longer than your working memory allows - you make notes. Very likely to forget when required but now I have quick notes to refer to.
                     </p>
 
                     <hr />
-                    <h3>Everything I forgot</h3>
+                    <h3>Everything I forgot while working on a project.</h3>
                     <ul>
                         <li>
                             Capitalise variables and functions to export - <code>Coffee</code> can be exported but <code>coffee</code> cannot.
                         </li>
                         <li>Folder names become module/package names.</li>
+                        <li><code>go build</code> for building code and <code>go run</code> complies and runs program.</li>
                         <li>
                             Type comes after the variable name- <code>foo int</code>
                         </li>
@@ -62,6 +63,34 @@ class Post extends Component {
                         <li>Avoid goroutine leaks by specifying how the goroutine exists. Use context.</li>
                         <li>Share memory by communicating; do not communicate by sharing memory.</li>
                         <li>Before go 1.22, the for loops would use the same value and index and if a goroutine closure is using the values it would not work as expected. Now, there is a new copy in each for loop so the closure works.</li>
+                    </ul>
+                    <hr />
+                    <h3>Resources I liked</h3>
+                    <ul>
+                        <li>
+                            <a
+                            href="https://quii.gitbook.io/learn-go-with-tests"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        > Learn Go with tests.
+                        </a> Test driven development. Testing in Go is  quite nice.
+                        </li>
+                        <li>
+                            <a
+                            href="https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            > Learning Go.
+                            </a> This book has a good concurrency explanation and why you may not need it.
+                        </li>
+                        <li>
+                            <a
+                            href="https://gobyexample.com/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        > Go by example
+                        </a>
+                        </li>
                     </ul>
                 </article>
                 <PostFooter />
