@@ -20,13 +20,13 @@ export default [
     description: "Angular | Code Snippet",
     icon: "⭐"
   },
-  {
-    name: "Financial jargon - Balance Sheet",
-    link: "/BalanceSheet",
-    date: "July 24, 2023",
-    description: "Money | Finance | Stocks",
-    icon: "💸 "
-  },
+  // {
+  //   name: "Financial jargon - Balance Sheet",
+  //   link: "/BalanceSheet",
+  //   date: "July 24, 2023",
+  //   description: "Money | Finance | Stocks",
+  //   icon: "💸 "
+  // },
   {
     name: "Negotiation for introverts",
     link: "/Negotiation",
