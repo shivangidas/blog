@@ -1,4 +1,11 @@
 export default [
+    {
+    name: "Stop AI crawlers",
+    link: "/StopAICrawlers",
+    date: "February 10, 2025",
+    description: "Content | AI Bots | robots.txt",
+    icon: "🌤"
+  },
   {
     name: "Go Gotchas",
     link: "/GoLang",

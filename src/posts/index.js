@@ -33,6 +33,7 @@ import Post32 from "./BalanceSheet";
 import Post33 from "./Angular18";
 import Post34 from "./ReviveOldResume";
 import Post35 from "./Golang";
+import Post36 from "./StopAICrawlers";
 export {
   Post1,
   Post2,
@@ -68,5 +69,6 @@ export {
   Post32,
   Post33,
   Post34,
-  Post35
+  Post35,
+  Post36
 };
