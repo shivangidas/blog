@@ -5,13 +5,13 @@ function Layout() {
     <p>
       Personal blog by{" "}
       <a
-        href="https://twitter.com/iShivangiDas"
+        href="https://bsky.app/profile/shivangidas.bsky.social"
         target="_blank"
         rel="noopener noreferrer"
       >
         Shivangi Das
       </a>
-      . <br />I enjoy coding, love reading, traveling and painting, and am passionate about financial education.
+      . <br />I enjoy coding and sometimes writing about it.
     </p>
   );
 }
