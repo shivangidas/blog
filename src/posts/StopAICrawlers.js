@@ -58,7 +58,7 @@ class Post extends Component {
               Disallow: /
             </pre>
             Feel free to take a look at my <a
-                href="https://shivangidas.github.io/blog/robots.txt"
+                href="https://shivangidas.com/blog/robots.txt"
                 target="_blank"
                 rel="noopener noreferrer"
               >

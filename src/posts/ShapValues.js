@@ -16,7 +16,7 @@ class Post extends Component {
           <p>
             We have seen ways to find most important feature (
             <a
-              href="https://shivangidas.github.io/blog/PermutationImportance"
+              href="https://shivangidas.com/blog/PermutationImportance"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -24,7 +24,7 @@ class Post extends Component {
             </a>
             ) and how those features affect predictions (
             <a
-              href="https://shivangidas.github.io/blog/PartialPlots"
+              href="https://shivangidas.com/blog/PartialPlots"
               target="_blank"
               rel="noopener noreferrer"
             >
