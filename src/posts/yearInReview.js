@@ -49,7 +49,7 @@ class Post extends Component {
             previous blog{" "}
             <strong>
               <a
-                href="https://shivangidas.com/blog/Outliers"
+                href="https://shivangidas.github.io/blog/Outliers"
                 target="_blank"
                 rel="noopener noreferrer"
               >

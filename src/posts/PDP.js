@@ -13,7 +13,7 @@ class Post extends Component {
 
         <article>
           <p>
-            With <a href="https://shivangidas.com/blog/PermutationImportance" target="_blank"
+            With <a href="https://shivangidas.github.io/blog/PermutationImportance" target="_blank"
               rel="noopener noreferrer">Permutation Importance</a>, we found out which features the model considers important. However, we still need to know how and how much these features affect the prediction. Partial Dependence Plots will help us here.
           </p>
           <hr />
