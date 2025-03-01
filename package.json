@@ -29,7 +29,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://shivangidas.com/blog",
+  "homepage": "https://shivangidas.github.io/blog",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
