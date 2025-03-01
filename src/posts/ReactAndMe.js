@@ -7,12 +7,14 @@ class Post extends Component {
     return (
       <>
         <h1>My relationship with React</h1>
-        <small>March 31, 2019</small>
+        <small>First Published on March 31, 2019, Updated: March 1st, 2025</small>
 
         <article>
           <p>
             I started learning React out of curiosity seeing the amazing things
             people in my Twitter feed were building with it.
+          </p>
+          <p>Edit [01-03-2025]: It has been 6 years since I first wrote this and at this time the react documentation is my favourite source of learning react properly.
           </p>
           <hr />
           <h3>The fun stuff</h3>
@@ -95,6 +97,7 @@ class Post extends Component {
             the address bar.
           </p>
           <p>Edit [25-10-2022]: I just re-routed this, client-side routing is a lot easier now.</p>
+          <p>Edit [01-03-2025]: I added a custom domain which broke routing (the browser refresh part) again and I am using this <a href="https://github.com/rafgraph/spa-github-pages" target="_blank">spa-github-pages</a> to trick GitHub Pages to serve my single page app correctly.</p>
           <hr />
           <h3>Side-effects</h3>
           <p>
