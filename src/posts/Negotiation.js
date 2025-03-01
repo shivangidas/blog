@@ -14,7 +14,7 @@ class Post extends Component {
           <p>
             Discussing an offer is a difficult conversation to have and I talked about it at the TechLeadJS conference recently.  This is the second part of the talk in written form.
 
-            Find the first part here:<a href="https://shivangidas.github.io/blog/WhyNegotiate"
+            Find the first part here:<a href="https://www.shivangidas.com/blog/WhyNegotiate"
               target="_blank"
               rel="noopener noreferrer"> Why negotiate </a>
           </p>

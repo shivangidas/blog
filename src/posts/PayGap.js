@@ -15,7 +15,7 @@ class Post extends Component {
             Discussing an offer is a difficult conversation to have and I talked about it at the TechLeadJS conference recently.  This is the first part of the talk in written form.
 
             Find the other part here:{" "}
-            <a href="https://shivangidas.github.io/blog/Negotiation"
+            <a href="https://www.shivangidas.com/blog/Negotiation"
               target="_blank"
               rel="noopener noreferrer">
               Negotiation for introverts</a>
@@ -94,7 +94,7 @@ class Post extends Component {
             height="auto"
           />
           <p>Now when looking at these values and priorities, it’s easy to see none of them are evil or selfish. Most of them require money and time. When you discuss a promotion or an offer, you need to keep in mind you’re not just asking the market value of the job, you’re in fact making sure you can fulfil your priorities. It's much easier to discuss money when you have goals like buying a house attached to it. Having your values sorted would give you a good idea of where to focus in terms of other perks too.</p>
-          <p>Find a few tips on <a href="https://shivangidas.github.io/blog/Negotiation"
+          <p>Find a few tips on <a href="https://www.shivangidas.com/blog/Negotiation"
             target="_blank"
             rel="noopener noreferrer">
             Negotiation that work for me as an introvert </a> in the next part.</p>

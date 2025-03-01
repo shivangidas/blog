@@ -10,7 +10,7 @@ class Post extends Component {
 
                 <article>
                     <p> Reviving an old <a
-                        href="https://shivangidas.github.io/Website"
+                        href="https://www.shivangidas.com/Website"
                         target="_blank"
                         rel="noopener noreferrer"
                     > portfolio website
